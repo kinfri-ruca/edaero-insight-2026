@@ -1,0 +1,13 @@
+# Virtual Environment
+venv/
+
+# Secrets - Do not commit secrets to Git!
+serviceAccountKey.json
+
+# Python cache
+__pycache__/
+*.pyc
+
+# IDE settings
+.vscode/
+.idea/
