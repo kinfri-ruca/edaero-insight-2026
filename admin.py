@@ -4,21 +4,17 @@ import firebase_admin
 from firebase_admin import credentials, storage, firestore
 import os
 import time
-import json 
 
 # --- 최종 설정 ---
 #SERVICE_ACCOUNT_FILE = 'serviceAccountKey.json'
 BUCKET_NAME = 'edaero-insight-2026.firebasestorage.app' # RUCAS LEE님의 설정으로 수정했습니다.
 # ------------------------------------
 
-# Firebase 초기화
+# Firebase 초기화 로직 변경
 try:
     if not firebase_admin._apps:
-        # Streamlit의 Secrets에서 서비스 계정 정보(JSON 텍스트)를 직접 읽어옵니다.
-        service_account_info_str = st.secrets["firebase_service_account"]
-        
-        # 문자열을 Python 딕셔너리로 변환
-        service_account_info = json.loads(service_account_info_str)
+        # Streamlit의 구조화된 Secrets을 직접 딕셔너리로 읽어옵니다.
+        service_account_info = dict(st.secrets["firebase_service_account"])
         
         cred = credentials.Certificate(service_account_info)
         firebase_admin.initialize_app(cred, {'storageBucket': BUCKET_NAME})
