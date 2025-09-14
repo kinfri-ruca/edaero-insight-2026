@@ -6,26 +6,27 @@ import os
 import time
 
 # --- 최종 설정 ---
-SERVICE_ACCOUNT_FILE = 'serviceAccountKey.json'
+#SERVICE_ACCOUNT_FILE = 'serviceAccountKey.json'
 BUCKET_NAME = 'edaero-insight-2026.firebasestorage.app' # RUCAS LEE님의 설정으로 수정했습니다.
 # ------------------------------------
 
 # Firebase 초기화
 try:
     if not firebase_admin._apps:
-        if os.path.exists(SERVICE_ACCOUNT_FILE):
-            cred = credentials.Certificate(SERVICE_ACCOUNT_FILE)
-            firebase_admin.initialize_app(cred, {'storageBucket': BUCKET_NAME})
-        else:
-            st.error(f"'{SERVICE_ACCOUNT_FILE}' 파일을 찾을 수 없습니다.")
-            st.stop()
+        # Streamlit의 Secrets에서 서비스 계정 정보(JSON 텍스트)를 직접 읽어옵니다.
+        service_account_info_str = st.secrets["firebase_service_account"]
+        
+        # 문자열을 Python 딕셔너리로 변환
+        service_account_info = json.loads(service_account_info_str)
+        
+        cred = credentials.Certificate(service_account_info)
+        firebase_admin.initialize_app(cred, {'storageBucket': BUCKET_NAME})
     
     db = firestore.client()
 
 except Exception as e:
     st.error(f"Firebase 초기화 중 오류가 발생했습니다: {e}")
     st.stop()
-
 
 st.set_page_config(page_title="edaeroAI Admin", layout="centered")
 st.title("👨‍💻 edaeroAI 데이터 관리자")
