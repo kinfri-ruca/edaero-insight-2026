@@ -1,0 +1,2902 @@
+{
+  "university": "서울시립대학교",
+  "year": "2026",
+  "document_title": "2026_서울시립대학교_정시.pdf",
+  "common_info": {
+    "application_period": "2025. 12. 29.(월) 10:00 ~ 12. 31.(수) 18:00",
+    "application_procedure": [
+      "서울시립대학교 입학처 홈페이지 접속 후 정시모집 원서접수 링크 클릭",
+      "원서접수 대행업체 홈페이지 접속 후 모집요강 및 원서접수 유의사항 숙지",
+      "대입 표준공통원서 회원가입 및 작성 (수험생 본인 명의로 접수)",
+      "서울시립대학교 원서 작성 (전형유형 및 모집단위 등 지원사항 입력)",
+      "전형료 결제 (전형료 결제 이후 지원사항에 대한 수정 및 취소 불가)",
+      "접수확인 및 접수증 출력",
+      "제출 서류 우편 제출 (대상자만 해당)"
+    ],
+    "application_fee": {
+      "인문·자연계열 일반전형": "30,000원",
+      "인문·자연계열 정원 외 특별전형": "5,000원 (감면액 25,000원 적용)",
+      "음악학과": "100,000원",
+      "디자인학과": "110,000원",
+      "조각학과": "150,000원",
+      "스포츠과학과": "90,000원",
+      "비고": "원서접수 수수료 포함. 디자인학과, 조각학과, 스포츠과학과는 1단계 불합격자에게 2단계 전형료 환불."
+    },
+    "csat_english_method": "등급에 따른 점수 부여",
+    "csat_history_method": "총점에서 취득 등급에 따른 점수 차감"
+  },
+  "department_info": [
+    {
+      "major": "행정학과",
+      "recruitment_unit": "나군",
+      "selection_category": "일반전형",
+      "recruitment_number": 28,
+      "csat_ratios": {
+        "국어": "35% (350점)",
+        "수학": "25% (250점)",
+        "영어": "20% (200점)",
+        "탐구영역": "사회/과학 (2과목) 20% (200점)",
+        "한국사": "등급별 점수 차감",
+        "총점": "100% (1,000점)"
+      },
+      "evaluation_method": "수능 100%",
+      "source_page": "4, 6"
+    },
+    {
+      "major": "행정학과",
+      "recruitment_unit": "나군",
+      "selection_category": "기회균형전형II (농어촌학생)",
+      "recruitment_number": 1,
+      "csat_ratios": {
+        "국어": "35% (350점)",
+        "수학": "25% (250점)",
+        "영어": "20% (200점)",
+        "탐구영역": "사회/과학 (2과목) 20% (200점)",
+        "한국사": "등급별 점수 차감",
+        "총점": "100% (1,000점)"
+      },
+      "evaluation_method": "수능 100%",
+      "source_page": "4, 5, 6"
+    },
+    {
+      "major": "행정학과",
+      "recruitment_unit": "나군",
+      "selection_category": "기회균형전형II (특성화고교출신자)",
+      "recruitment_number": 1,
+      "csat_ratios": {
+        "국어": "35% (350점)",
+        "수학": "25% (250점)",
+        "영어": "20% (200점)",
+        "탐구영역": "사회/과학 (2과목) 20% (200점)",
+        "한국사": "등급별 점수 차감",
+        "총점": "100% (1,000점)"
+      },
+      "evaluation_method": "수능 100%",
+      "source_page": "4, 5, 6"
+    },
+    {
+      "major": "행정학과",
+      "recruitment_unit": "나군",
+      "selection_category": "기회균형전형II (기초생활수급자등)",
+      "recruitment_number": 1,
+      "csat_ratios": {
+        "국어": "35% (350점)",
+        "수학": "25% (250점)",
+        "영어": "20% (200점)",
+        "탐구영역": "사회/과학 (2과목) 20% (200점)",
+        "한국사": "등급별 점수 차감",
+        "총점": "100% (1,000점)"
+      },
+      "evaluation_method": "수능 100%",
+      "source_page": "4, 5, 6"
+    },
+    {
+      "major": "행정학과",
+      "recruitment_unit": "나군",
+      "selection_category": "기회균형전형II (장애인 등)",
+      "recruitment_number": null,
+      "csat_ratios": {
+        "국어": "35% (350점)",
+        "수학": "25% (250점)",
+        "영어": "20% (200점)",
+        "탐구영역": "사회/과학 (2과목) 20% (200점)",
+        "한국사": "등급별 점수 차감",
+        "총점": "100% (1,000점)"
+      },
+      "evaluation_method": "수능 100%",
+      "source_page": "4, 5, 6"
+    },
+    {
+      "major": "국제관계학과",
+      "recruitment_unit": "나군",
+      "selection_category": "일반전형",
+      "recruitment_number": 11,
+      "csat_ratios": {
+        "국어": "35% (350점)",
+        "수학": "25% (250점)",
+        "영어": "20% (200점)",
+        "탐구영역": "사회/과학 (2과목) 20% (200점)",
+        "한국사": "등급별 점수 차감",
+        "총점": "100% (1,000점)"
+      },
+      "evaluation_method": "수능 100%",
+      "source_page": "4, 6"
+    },
+    {
+      "major": "국제관계학과",
+      "recruitment_unit": "나군",
+      "selection_category": "기회균형전형II (농어촌학생)",
+      "recruitment_number": 1,
+      "csat_ratios": {
+        "국어": "35% (350점)",
+        "수학": "25% (250점)",
+        "영어": "20% (200점)",
+        "탐구영역": "사회/과학 (2과목) 20% (200점)",
+        "한국사": "등급별 점수 차감",
+        "총점": "100% (1,000점)"
+      },
+      "evaluation_method": "수능 100%",
+      "source_page": "4, 5, 6"
+    },
+    {
+      "major": "국제관계학과",
+      "recruitment_unit": "나군",
+      "selection_category": "기회균형전형II (특성화고교출신자)",
+      "recruitment_number": 1,
+      "csat_ratios": {
+        "국어": "35% (350점)",
+        "수학": "25% (250점)",
+        "영어": "20% (200점)",
+        "탐구영역": "사회/과학 (2과목) 20% (200점)",
+        "한국사": "등급별 점수 차감",
+        "총점": "100% (1,000점)"
+      },
+      "evaluation_method": "수능 100%",
+      "source_page": "4, 5, 6"
+    },
+    {
+      "major": "국제관계학과",
+      "recruitment_unit": "나군",
+      "selection_category": "기회균형전형II (기초생활수급자등)",
+      "recruitment_number": 1,
+      "csat_ratios": {
+        "국어": "35% (350점)",
+        "수학": "25% (250점)",
+        "영어": "20% (200점)",
+        "탐구영역": "사회/과학 (2과목) 20% (200점)",
+        "한국사": "등급별 점수 차감",
+        "총점": "100% (1,000점)"
+      },
+      "evaluation_method": "수능 100%",
+      "source_page": "4, 5, 6"
+    },
+    {
+      "major": "국제관계학과",
+      "recruitment_unit": "나군",
+      "selection_category": "기회균형전형II (장애인 등)",
+      "recruitment_number": null,
+      "csat_ratios": {
+        "국어": "35% (350점)",
+        "수학": "25% (250점)",
+        "영어": "20% (200점)",
+        "탐구영역": "사회/과학 (2과목) 20% (200점)",
+        "한국사": "등급별 점수 차감",
+        "총점": "100% (1,000점)"
+      },
+      "evaluation_method": "수능 100%",
+      "source_page": "4, 5, 6"
+    },
+    {
+      "major": "경제학부",
+      "recruitment_unit": "나군",
+      "selection_category": "일반전형",
+      "recruitment_number": 35,
+      "csat_ratios": {
+        "국어": "35% (350점)",
+        "수학": "35% (350점)",
+        "영어": "15% (150점)",
+        "탐구영역": "사회/과학 (2과목) 15% (150점)",
+        "한국사": "등급별 점수 차감",
+        "총점": "100% (1,000점)"
+      },
+      "evaluation_method": "수능 100%",
+      "source_page": "4, 6"
+    },
+    {
+      "major": "경제학부",
+      "recruitment_unit": "나군",
+      "selection_category": "기회균형전형II (농어촌학생)",
+      "recruitment_number": 1,
+      "csat_ratios": {
+        "국어": "35% (350점)",
+        "수학": "35% (350점)",
+        "영어": "15% (150점)",
+        "탐구영역": "사회/과학 (2과목) 15% (150점)",
+        "한국사": "등급별 점수 차감",
+        "총점": "100% (1,000점)"
+      },
+      "evaluation_method": "수능 100%",
+      "source_page": "4, 5, 6"
+    },
+    {
+      "major": "경제학부",
+      "recruitment_unit": "나군",
+      "selection_category": "기회균형전형II (특성화고교출신자)",
+      "recruitment_number": 1,
+      "csat_ratios": {
+        "국어": "35% (350점)",
+        "수학": "35% (350점)",
+        "영어": "15% (150점)",
+        "탐구영역": "사회/과학 (2과목) 15% (150점)",
+        "한국사": "등급별 점수 차감",
+        "총점": "100% (1,000점)"
+      },
+      "evaluation_method": "수능 100%",
+      "source_page": "4, 5, 6"
+    },
+    {
+      "major": "경제학부",
+      "recruitment_unit": "나군",
+      "selection_category": "기회균형전형II (기초생활수급자등)",
+      "recruitment_number": 1,
+      "csat_ratios": {
+        "국어": "35% (350점)",
+        "수학": "35% (350점)",
+        "영어": "15% (150점)",
+        "탐구영역": "사회/과학 (2과목) 15% (150점)",
+        "한국사": "등급별 점수 차감",
+        "총점": "100% (1,000점)"
+      },
+      "evaluation_method": "수능 100%",
+      "source_page": "4, 5, 6"
+    },
+    {
+      "major": "경제학부",
+      "recruitment_unit": "나군",
+      "selection_category": "기회균형전형II (장애인 등)",
+      "recruitment_number": null,
+      "csat_ratios": {
+        "국어": "35% (350점)",
+        "수학": "35% (350점)",
+        "영어": "15% (150점)",
+        "탐구영역": "사회/과학 (2과목) 15% (150점)",
+        "한국사": "등급별 점수 차감",
+        "총점": "100% (1,000점)"
+      },
+      "evaluation_method": "수능 100%",
+      "source_page": "4, 5, 6"
+    },
+    {
+      "major": "사회복지학과",
+      "recruitment_unit": "나군",
+      "selection_category": "일반전형",
+      "recruitment_number": 13,
+      "csat_ratios": {
+        "국어": "35% (350점)",
+        "수학": "35% (350점)",
+        "영어": "15% (150점)",
+        "탐구영역": "사회/과학 (2과목) 15% (150점)",
+        "한국사": "등급별 점수 차감",
+        "총점": "100% (1,000점)"
+      },
+      "evaluation_method": "수능 100%",
+      "source_page": "4, 6"
+    },
+    {
+      "major": "사회복지학과",
+      "recruitment_unit": "나군",
+      "selection_category": "기회균형전형II (농어촌학생)",
+      "recruitment_number": 1,
+      "csat_ratios": {
+        "국어": "35% (350점)",
+        "수학": "35% (350점)",
+        "영어": "15% (150점)",
+        "탐구영역": "사회/과학 (2과목) 15% (150점)",
+        "한국사": "등급별 점수 차감",
+        "총점": "100% (1,000점)"
+      },
+      "evaluation_method": "수능 100%",
+      "source_page": "4, 5, 6"
+    },
+    {
+      "major": "사회복지학과",
+      "recruitment_unit": "나군",
+      "selection_category": "기회균형전형II (특성화고교출신자)",
+      "recruitment_number": 1,
+      "csat_ratios": {
+        "국어": "35% (350점)",
+        "수학": "35% (350점)",
+        "영어": "15% (150점)",
+        "탐구영역": "사회/과학 (2과목) 15% (150점)",
+        "한국사": "등급별 점수 차감",
+        "총점": "100% (1,000점)"
+      },
+      "evaluation_method": "수능 100%",
+      "source_page": "4, 5, 6"
+    },
+    {
+      "major": "사회복지학과",
+      "recruitment_unit": "나군",
+      "selection_category": "기회균형전형II (기초생활수급자등)",
+      "recruitment_number": 1,
+      "csat_ratios": {
+        "국어": "35% (350점)",
+        "수학": "35% (350점)",
+        "영어": "15% (150점)",
+        "탐구영역": "사회/과학 (2과목) 15% (150점)",
+        "한국사": "등급별 점수 차감",
+        "총점": "100% (1,000점)"
+      },
+      "evaluation_method": "수능 100%",
+      "source_page": "4, 5, 6"
+    },
+    {
+      "major": "사회복지학과",
+      "recruitment_unit": "나군",
+      "selection_category": "기회균형전형II (장애인 등)",
+      "recruitment_number": null,
+      "csat_ratios": {
+        "국어": "35% (350점)",
+        "수학": "35% (350점)",
+        "영어": "15% (150점)",
+        "탐구영역": "사회/과학 (2과목) 15% (150점)",
+        "한국사": "등급별 점수 차감",
+        "총점": "100% (1,000점)"
+      },
+      "evaluation_method": "수능 100%",
+      "source_page": "4, 5, 6"
+    },
+    {
+      "major": "세무학과",
+      "recruitment_unit": "나군",
+      "selection_category": "일반전형",
+      "recruitment_number": 37,
+      "csat_ratios": {
+        "국어": "35% (350점)",
+        "수학": "35% (350점)",
+        "영어": "15% (150점)",
+        "탐구영역": "사회/과학 (2과목) 15% (150점)",
+        "한국사": "등급별 점수 차감",
+        "총점": "100% (1,000점)"
+      },
+      "evaluation_method": "수능 100%",
+      "source_page": "4, 6"
+    },
+    {
+      "major": "세무학과",
+      "recruitment_unit": "나군",
+      "selection_category": "기회균형전형II (농어촌학생)",
+      "recruitment_number": 1,
+      "csat_ratios": {
+        "국어": "35% (350점)",
+        "수학": "35% (350점)",
+        "영어": "15% (150점)",
+        "탐구영역": "사회/과학 (2과목) 15% (150점)",
+        "한국사": "등급별 점수 차감",
+        "총점": "100% (1,000점)"
+      },
+      "evaluation_method": "수능 100%",
+      "source_page": "4, 5, 6"
+    },
+    {
+      "major": "세무학과",
+      "recruitment_unit": "나군",
+      "selection_category": "기회균형전형II (특성화고교출신자)",
+      "recruitment_number": 1,
+      "csat_ratios": {
+        "국어": "35% (350점)",
+        "수학": "35% (350점)",
+        "영어": "15% (150점)",
+        "탐구영역": "사회/과학 (2과목) 15% (150점)",
+        "한국사": "등급별 점수 차감",
+        "총점": "100% (1,000점)"
+      },
+      "evaluation_method": "수능 100%",
+      "source_page": "4, 5, 6"
+    },
+    {
+      "major": "세무학과",
+      "recruitment_unit": "나군",
+      "selection_category": "기회균형전형II (기초생활수급자등)",
+      "recruitment_number": 1,
+      "csat_ratios": {
+        "국어": "35% (350점)",
+        "수학": "35% (350점)",
+        "영어": "15% (150점)",
+        "탐구영역": "사회/과학 (2과목) 15% (150점)",
+        "한국사": "등급별 점수 차감",
+        "총점": "100% (1,000점)"
+      },
+      "evaluation_method": "수능 100%",
+      "source_page": "4, 5, 6"
+    },
+    {
+      "major": "세무학과",
+      "recruitment_unit": "나군",
+      "selection_category": "기회균형전형II (장애인 등)",
+      "recruitment_number": null,
+      "csat_ratios": {
+        "국어": "35% (350점)",
+        "수학": "35% (350점)",
+        "영어": "15% (150점)",
+        "탐구영역": "사회/과학 (2과목) 15% (150점)",
+        "한국사": "등급별 점수 차감",
+        "총점": "100% (1,000점)"
+      },
+      "evaluation_method": "수능 100%",
+      "source_page": "4, 5, 6"
+    },
+    {
+      "major": "경영학부",
+      "recruitment_unit": "나군",
+      "selection_category": "일반전형",
+      "recruitment_number": 67,
+      "csat_ratios": {
+        "국어": "35% (350점)",
+        "수학": "35% (350점)",
+        "영어": "15% (150점)",
+        "탐구영역": "사회/과학 (2과목) 15% (150점)",
+        "한국사": "등급별 점수 차감",
+        "총점": "100% (1,000점)"
+      },
+      "evaluation_method": "수능 100%",
+      "source_page": "4, 6"
+    },
+    {
+      "major": "경영학부",
+      "recruitment_unit": "나군",
+      "selection_category": "기회균형전형II (농어촌학생)",
+      "recruitment_number": 2,
+      "csat_ratios": {
+        "국어": "35% (350점)",
+        "수학": "35% (350점)",
+        "영어": "15% (150점)",
+        "탐구영역": "사회/과학 (2과목) 15% (150점)",
+        "한국사": "등급별 점수 차감",
+        "총점": "100% (1,000점)"
+      },
+      "evaluation_method": "수능 100%",
+      "source_page": "4, 5, 6"
+    },
+    {
+      "major": "경영학부",
+      "recruitment_unit": "나군",
+      "selection_category": "기회균형전형II (기초생활수급자등)",
+      "recruitment_number": 1,
+      "csat_ratios": {
+        "국어": "35% (350점)",
+        "수학": "35% (350점)",
+        "영어": "15% (150점)",
+        "탐구영역": "사회/과학 (2과목) 15% (150점)",
+        "한국사": "등급별 점수 차감",
+        "총점": "100% (1,000점)"
+      },
+      "evaluation_method": "수능 100%",
+      "source_page": "4, 5, 6"
+    },
+    {
+      "major": "경영학부",
+      "recruitment_unit": "나군",
+      "selection_category": "기회균형전형II (장애인 등)",
+      "recruitment_number": null,
+      "csat_ratios": {
+        "국어": "35% (350점)",
+        "수학": "35% (350점)",
+        "영어": "15% (150점)",
+        "탐구영역": "사회/과학 (2과목) 15% (150점)",
+        "한국사": "등급별 점수 차감",
+        "총점": "100% (1,000점)"
+      },
+      "evaluation_method": "수능 100%",
+      "source_page": "4, 5, 6"
+    },
+    {
+      "major": "영어영문학과",
+      "recruitment_unit": "나군",
+      "selection_category": "일반전형",
+      "recruitment_number": 8,
+      "csat_ratios": {
+        "국어": "35% (350점)",
+        "수학": "25% (250점)",
+        "영어": "20% (200점)",
+        "탐구영역": "사회/과학 (2과목) 20% (200점)",
+        "한국사": "등급별 점수 차감",
+        "총점": "100% (1,000점)"
+      },
+      "evaluation_method": "수능 100%",
+      "source_page": "4, 6"
+    },
+    {
+      "major": "영어영문학과",
+      "recruitment_unit": "나군",
+      "selection_category": "기회균형전형II (농어촌학생)",
+      "recruitment_number": 1,
+      "csat_ratios": {
+        "국어": "35% (350점)",
+        "수학": "25% (250점)",
+        "영어": "20% (200점)",
+        "탐구영역": "사회/과학 (2과목) 20% (200점)",
+        "한국사": "등급별 점수 차감",
+        "총점": "100% (1,000점)"
+      },
+      "evaluation_method": "수능 100%",
+      "source_page": "4, 5, 6"
+    },
+    {
+      "major": "영어영문학과",
+      "recruitment_unit": "나군",
+      "selection_category": "기회균형전형II (기초생활수급자등)",
+      "recruitment_number": 1,
+      "csat_ratios": {
+        "국어": "35% (350점)",
+        "수학": "25% (250점)",
+        "영어": "20% (200점)",
+        "탐구영역": "사회/과학 (2과목) 20% (200점)",
+        "한국사": "등급별 점수 차감",
+        "총점": "100% (1,000점)"
+      },
+      "evaluation_method": "수능 100%",
+      "source_page": "4, 5, 6"
+    },
+    {
+      "major": "영어영문학과",
+      "recruitment_unit": "나군",
+      "selection_category": "기회균형전형II (장애인 등)",
+      "recruitment_number": null,
+      "csat_ratios": {
+        "국어": "35% (350점)",
+        "수학": "25% (250점)",
+        "영어": "20% (200점)",
+        "탐구영역": "사회/과학 (2과목) 20% (200점)",
+        "한국사": "등급별 점수 차감",
+        "총점": "100% (1,000점)"
+      },
+      "evaluation_method": "수능 100%",
+      "source_page": "4, 5, 6"
+    },
+    {
+      "major": "국어국문학과",
+      "recruitment_unit": "나군",
+      "selection_category": "일반전형",
+      "recruitment_number": 8,
+      "csat_ratios": {
+        "국어": "35% (350점)",
+        "수학": "25% (250점)",
+        "영어": "20% (200점)",
+        "탐구영역": "사회/과학 (2과목) 20% (200점)",
+        "한국사": "등급별 점수 차감",
+        "총점": "100% (1,000점)"
+      },
+      "evaluation_method": "수능 100%",
+      "source_page": "4, 6"
+    },
+    {
+      "major": "국어국문학과",
+      "recruitment_unit": "나군",
+      "selection_category": "기회균형전형II (농어촌학생)",
+      "recruitment_number": 1,
+      "csat_ratios": {
+        "국어": "35% (350점)",
+        "수학": "25% (250점)",
+        "영어": "20% (200점)",
+        "탐구영역": "사회/과학 (2과목) 20% (200점)",
+        "한국사": "등급별 점수 차감",
+        "총점": "100% (1,000점)"
+      },
+      "evaluation_method": "수능 100%",
+      "source_page": "4, 5, 6"
+    },
+    {
+      "major": "국어국문학과",
+      "recruitment_unit": "나군",
+      "selection_category": "기회균형전형II (기초생활수급자등)",
+      "recruitment_number": 1,
+      "csat_ratios": {
+        "국어": "35% (350점)",
+        "수학": "25% (250점)",
+        "영어": "20% (200점)",
+        "탐구영역": "사회/과학 (2과목) 20% (200점)",
+        "한국사": "등급별 점수 차감",
+        "총점": "100% (1,000점)"
+      },
+      "evaluation_method": "수능 100%",
+      "source_page": "4, 5, 6"
+    },
+    {
+      "major": "국어국문학과",
+      "recruitment_unit": "나군",
+      "selection_category": "기회균형전형II (장애인 등)",
+      "recruitment_number": null,
+      "csat_ratios": {
+        "국어": "35% (350점)",
+        "수학": "25% (250점)",
+        "영어": "20% (200점)",
+        "탐구영역": "사회/과학 (2과목) 20% (200점)",
+        "한국사": "등급별 점수 차감",
+        "총점": "100% (1,000점)"
+      },
+      "evaluation_method": "수능 100%",
+      "source_page": "4, 5, 6"
+    },
+    {
+      "major": "국사학과",
+      "recruitment_unit": "나군",
+      "selection_category": "일반전형",
+      "recruitment_number": 9,
+      "csat_ratios": {
+        "국어": "35% (350점)",
+        "수학": "25% (250점)",
+        "영어": "20% (200점)",
+        "탐구영역": "사회/과학 (2과목) 20% (200점)",
+        "한국사": "등급별 점수 차감",
+        "총점": "100% (1,000점)"
+      },
+      "evaluation_method": "수능 100%",
+      "source_page": "4, 6"
+    },
+    {
+      "major": "국사학과",
+      "recruitment_unit": "나군",
+      "selection_category": "기회균형전형II (농어촌학생)",
+      "recruitment_number": 1,
+      "csat_ratios": {
+        "국어": "35% (350점)",
+        "수학": "25% (250점)",
+        "영어": "20% (200점)",
+        "탐구영역": "사회/과학 (2과목) 20% (200점)",
+        "한국사": "등급별 점수 차감",
+        "총점": "100% (1,000점)"
+      },
+      "evaluation_method": "수능 100%",
+      "source_page": "4, 5, 6"
+    },
+    {
+      "major": "국사학과",
+      "recruitment_unit": "나군",
+      "selection_category": "기회균형전형II (기초생활수급자등)",
+      "recruitment_number": 1,
+      "csat_ratios": {
+        "국어": "35% (350점)",
+        "수학": "25% (250점)",
+        "영어": "20% (200점)",
+        "탐구영역": "사회/과학 (2과목) 20% (200점)",
+        "한국사": "등급별 점수 차감",
+        "총점": "100% (1,000점)"
+      },
+      "evaluation_method": "수능 100%",
+      "source_page": "4, 5, 6"
+    },
+    {
+      "major": "국사학과",
+      "recruitment_unit": "나군",
+      "selection_category": "기회균형전형II (장애인 등)",
+      "recruitment_number": null,
+      "csat_ratios": {
+        "국어": "35% (350점)",
+        "수학": "25% (250점)",
+        "영어": "20% (200점)",
+        "탐구영역": "사회/과학 (2과목) 20% (200점)",
+        "한국사": "등급별 점수 차감",
+        "총점": "100% (1,000점)"
+      },
+      "evaluation_method": "수능 100%",
+      "source_page": "4, 5, 6"
+    },
+    {
+      "major": "철학과",
+      "recruitment_unit": "나군",
+      "selection_category": "일반전형",
+      "recruitment_number": 9,
+      "csat_ratios": {
+        "국어": "35% (350점)",
+        "수학": "25% (250점)",
+        "영어": "20% (200점)",
+        "탐구영역": "사회/과학 (2과목) 20% (200점)",
+        "한국사": "등급별 점수 차감",
+        "총점": "100% (1,000점)"
+      },
+      "evaluation_method": "수능 100%",
+      "source_page": "4, 6"
+    },
+    {
+      "major": "철학과",
+      "recruitment_unit": "나군",
+      "selection_category": "기회균형전형II (농어촌학생)",
+      "recruitment_number": 1,
+      "csat_ratios": {
+        "국어": "35% (350점)",
+        "수학": "25% (250점)",
+        "영어": "20% (200점)",
+        "탐구영역": "사회/과학 (2과목) 20% (200점)",
+        "한국사": "등급별 점수 차감",
+        "총점": "100% (1,000점)"
+      },
+      "evaluation_method": "수능 100%",
+      "source_page": "4, 5, 6"
+    },
+    {
+      "major": "철학과",
+      "recruitment_unit": "나군",
+      "selection_category": "기회균형전형II (기초생활수급자등)",
+      "recruitment_number": 1,
+      "csat_ratios": {
+        "국어": "35% (350점)",
+        "수학": "25% (250점)",
+        "영어": "20% (200점)",
+        "탐구영역": "사회/과학 (2과목) 20% (200점)",
+        "한국사": "등급별 점수 차감",
+        "총점": "100% (1,000점)"
+      },
+      "evaluation_method": "수능 100%",
+      "source_page": "4, 5, 6"
+    },
+    {
+      "major": "철학과",
+      "recruitment_unit": "나군",
+      "selection_category": "기회균형전형II (장애인 등)",
+      "recruitment_number": null,
+      "csat_ratios": {
+        "국어": "35% (350점)",
+        "수학": "25% (250점)",
+        "영어": "20% (200점)",
+        "탐구영역": "사회/과학 (2과목) 20% (200점)",
+        "한국사": "등급별 점수 차감",
+        "총점": "100% (1,000점)"
+      },
+      "evaluation_method": "수능 100%",
+      "source_page": "4, 5, 6"
+    },
+    {
+      "major": "중국어문화학과",
+      "recruitment_unit": "나군",
+      "selection_category": "일반전형",
+      "recruitment_number": 7,
+      "csat_ratios": {
+        "국어": "35% (350점)",
+        "수학": "25% (250점)",
+        "영어": "20% (200점)",
+        "탐구영역": "사회/과학 (2과목) 20% (200점)",
+        "한국사": "등급별 점수 차감",
+        "총점": "100% (1,000점)"
+      },
+      "evaluation_method": "수능 100%",
+      "source_page": "4, 6"
+    },
+    {
+      "major": "중국어문화학과",
+      "recruitment_unit": "나군",
+      "selection_category": "기회균형전형II (농어촌학생)",
+      "recruitment_number": 1,
+      "csat_ratios": {
+        "국어": "35% (350점)",
+        "수학": "25% (250점)",
+        "영어": "20% (200점)",
+        "탐구영역": "사회/과학 (2과목) 20% (200점)",
+        "한국사": "등급별 점수 차감",
+        "총점": "100% (1,000점)"
+      },
+      "evaluation_method": "수능 100%",
+      "source_page": "4, 5, 6"
+    },
+    {
+      "major": "중국어문화학과",
+      "recruitment_unit": "나군",
+      "selection_category": "기회균형전형II (기초생활수급자등)",
+      "recruitment_number": 1,
+      "csat_ratios": {
+        "국어": "35% (350점)",
+        "수학": "25% (250점)",
+        "영어": "20% (200점)",
+        "탐구영역": "사회/과학 (2과목) 20% (200점)",
+        "한국사": "등급별 점수 차감",
+        "총점": "100% (1,000점)"
+      },
+      "evaluation_method": "수능 100%",
+      "source_page": "4, 5, 6"
+    },
+    {
+      "major": "중국어문화학과",
+      "recruitment_unit": "나군",
+      "selection_category": "기회균형전형II (장애인 등)",
+      "recruitment_number": null,
+      "csat_ratios": {
+        "국어": "35% (350점)",
+        "수학": "25% (250점)",
+        "영어": "20% (200점)",
+        "탐구영역": "사회/과학 (2과목) 20% (200점)",
+        "한국사": "등급별 점수 차감",
+        "총점": "100% (1,000점)"
+      },
+      "evaluation_method": "수능 100%",
+      "source_page": "4, 5, 6"
+    },
+    {
+      "major": "도시행정학과",
+      "recruitment_unit": "가군",
+      "selection_category": "일반전형",
+      "recruitment_number": 14,
+      "csat_ratios": {
+        "국어": "35% (350점)",
+        "수학": "35% (350점)",
+        "영어": "15% (150점)",
+        "탐구영역": "사회/과학 (2과목) 15% (150점)",
+        "한국사": "등급별 점수 차감",
+        "총점": "100% (1,000점)"
+      },
+      "evaluation_method": "수능 100%",
+      "source_page": "4, 6"
+    },
+    {
+      "major": "도시행정학과",
+      "recruitment_unit": "가군",
+      "selection_category": "기회균형전형II (농어촌학생)",
+      "recruitment_number": 1,
+      "csat_ratios": {
+        "국어": "35% (350점)",
+        "수학": "35% (350점)",
+        "영어": "15% (150점)",
+        "탐구영역": "사회/과학 (2과목) 15% (150점)",
+        "한국사": "등급별 점수 차감",
+        "총점": "100% (1,000점)"
+      },
+      "evaluation_method": "수능 100%",
+      "source_page": "4, 5, 6"
+    },
+    {
+      "major": "도시행정학과",
+      "recruitment_unit": "가군",
+      "selection_category": "기회균형전형II (특성화고교출신자)",
+      "recruitment_number": 1,
+      "csat_ratios": {
+        "국어": "35% (350점)",
+        "수학": "35% (350점)",
+        "영어": "15% (150점)",
+        "탐구영역": "사회/과학 (2과목) 15% (150점)",
+        "한국사": "등급별 점수 차감",
+        "총점": "100% (1,000점)"
+      },
+      "evaluation_method": "수능 100%",
+      "source_page": "4, 5, 6"
+    },
+    {
+      "major": "도시행정학과",
+      "recruitment_unit": "가군",
+      "selection_category": "기회균형전형II (기초생활수급자등)",
+      "recruitment_number": 1,
+      "csat_ratios": {
+        "국어": "35% (350점)",
+        "수학": "35% (350점)",
+        "영어": "15% (150점)",
+        "탐구영역": "사회/과학 (2과목) 15% (150점)",
+        "한국사": "등급별 점수 차감",
+        "총점": "100% (1,000점)"
+      },
+      "evaluation_method": "수능 100%",
+      "source_page": "4, 5, 6"
+    },
+    {
+      "major": "도시사회학과",
+      "recruitment_unit": "나군",
+      "selection_category": "일반전형",
+      "recruitment_number": 13,
+      "csat_ratios": {
+        "국어": "35% (350점)",
+        "수학": "25% (250점)",
+        "영어": "20% (200점)",
+        "탐구영역": "사회/과학 (2과목) 20% (200점)",
+        "한국사": "등급별 점수 차감",
+        "총점": "100% (1,000점)"
+      },
+      "evaluation_method": "수능 100%",
+      "source_page": "4, 6"
+    },
+    {
+      "major": "도시사회학과",
+      "recruitment_unit": "나군",
+      "selection_category": "기회균형전형II (농어촌학생)",
+      "recruitment_number": 1,
+      "csat_ratios": {
+        "국어": "35% (350점)",
+        "수학": "25% (250점)",
+        "영어": "20% (200점)",
+        "탐구영역": "사회/과학 (2과목) 20% (200점)",
+        "한국사": "등급별 점수 차감",
+        "총점": "100% (1,000점)"
+      },
+      "evaluation_method": "수능 100%",
+      "source_page": "4, 5, 6"
+    },
+    {
+      "major": "도시사회학과",
+      "recruitment_unit": "나군",
+      "selection_category": "기회균형전형II (특성화고교출신자)",
+      "recruitment_number": 1,
+      "csat_ratios": {
+        "국어": "35% (350점)",
+        "수학": "25% (250점)",
+        "영어": "20% (200점)",
+        "탐구영역": "사회/과학 (2과목) 20% (200점)",
+        "한국사": "등급별 점수 차감",
+        "총점": "100% (1,000점)"
+      },
+      "evaluation_method": "수능 100%",
+      "source_page": "4, 5, 6"
+    },
+    {
+      "major": "도시사회학과",
+      "recruitment_unit": "나군",
+      "selection_category": "기회균형전형II (기초생활수급자등)",
+      "recruitment_number": 1,
+      "csat_ratios": {
+        "국어": "35% (350점)",
+        "수학": "25% (250점)",
+        "영어": "20% (200점)",
+        "탐구영역": "사회/과학 (2과목) 20% (200점)",
+        "한국사": "등급별 점수 차감",
+        "총점": "100% (1,000점)"
+      },
+      "evaluation_method": "수능 100%",
+      "source_page": "4, 5, 6"
+    },
+    {
+      "major": "도시사회학과",
+      "recruitment_unit": "나군",
+      "selection_category": "기회균형전형II (장애인 등)",
+      "recruitment_number": null,
+      "csat_ratios": {
+        "국어": "35% (350점)",
+        "수학": "25% (250점)",
+        "영어": "20% (200점)",
+        "탐구영역": "사회/과학 (2과목) 20% (200점)",
+        "한국사": "등급별 점수 차감",
+        "총점": "100% (1,000점)"
+      },
+      "evaluation_method": "수능 100%",
+      "source_page": "4, 5, 6"
+    },
+    {
+      "major": "자유전공학부(인문)",
+      "recruitment_unit": "가군",
+      "selection_category": "일반전형",
+      "recruitment_number": 45,
+      "csat_ratios": {
+        "국어": "35% (350점)",
+        "수학": "25% (250점)",
+        "영어": "20% (200점)",
+        "탐구영역": "사회/과학 (2과목) 20% (200점)",
+        "한국사": "등급별 점수 차감",
+        "총점": "100% (1,000점)"
+      },
+      "evaluation_method": "수능 100%",
+      "source_page": "4, 6"
+    },
+    {
+      "major": "전자전기컴퓨터공학부",
+      "recruitment_unit": "나군",
+      "selection_category": "일반전형",
+      "recruitment_number": 54,
+      "csat_ratios": {
+        "국어": "30% (300점)",
+        "수학": "40% (400점)",
+        "영어": "10% (100점)",
+        "탐구영역": "사회/과학 (2과목) 20% (200점)",
+        "한국사": "등급별 점수 차감",
+        "총점": "100% (1,000점)"
+      },
+      "evaluation_method": "수능 100%",
+      "source_page": "4, 6"
+    },
+    {
+      "major": "전자전기컴퓨터공학부",
+      "recruitment_unit": "나군",
+      "selection_category": "기회균형전형II (농어촌학생)",
+      "recruitment_number": 1,
+      "csat_ratios": {
+        "국어": "30% (300점)",
+        "수학": "40% (400점)",
+        "영어": "10% (100점)",
+        "탐구영역": "사회/과학 (2과목) 20% (200점)",
+        "한국사": "등급별 점수 차감",
+        "총점": "100% (1,000점)"
+      },
+      "evaluation_method": "수능 100%",
+      "source_page": "4, 5, 6"
+    },
+    {
+      "major": "전자전기컴퓨터공학부",
+      "recruitment_unit": "나군",
+      "selection_category": "기회균형전형II (특성화고교출신자)",
+      "recruitment_number": 1,
+      "csat_ratios": {
+        "국어": "30% (300점)",
+        "수학": "40% (400점)",
+        "영어": "10% (100점)",
+        "탐구영역": "사회/과학 (2과목) 20% (200점)",
+        "한국사": "등급별 점수 차감",
+        "총점": "100% (1,000점)"
+      },
+      "evaluation_method": "수능 100%",
+      "source_page": "4, 5, 6"
+    },
+    {
+      "major": "전자전기컴퓨터공학부",
+      "recruitment_unit": "나군",
+      "selection_category": "기회균형전형II (기초생활수급자등)",
+      "recruitment_number": 1,
+      "csat_ratios": {
+        "국어": "30% (300점)",
+        "수학": "40% (400점)",
+        "영어": "10% (100점)",
+        "탐구영역": "사회/과학 (2과목) 20% (200점)",
+        "한국사": "등급별 점수 차감",
+        "총점": "100% (1,000점)"
+      },
+      "evaluation_method": "수능 100%",
+      "source_page": "4, 5, 6"
+    },
+    {
+      "major": "전자전기컴퓨터공학부",
+      "recruitment_unit": "나군",
+      "selection_category": "기회균형전형II (장애인 등)",
+      "recruitment_number": null,
+      "csat_ratios": {
+        "국어": "30% (300점)",
+        "수학": "40% (400점)",
+        "영어": "10% (100점)",
+        "탐구영역": "사회/과학 (2과목) 20% (200점)",
+        "한국사": "등급별 점수 차감",
+        "총점": "100% (1,000점)"
+      },
+      "evaluation_method": "수능 100%",
+      "source_page": "4, 5, 6"
+    },
+    {
+      "major": "화학공학과",
+      "recruitment_unit": "나군",
+      "selection_category": "일반전형",
+      "recruitment_number": 15,
+      "csat_ratios": {
+        "국어": "30% (300점)",
+        "수학": "40% (400점)",
+        "영어": "10% (100점)",
+        "탐구영역": "사회/과학 (2과목) 20% (200점)",
+        "한국사": "등급별 점수 차감",
+        "총점": "100% (1,000점)"
+      },
+      "evaluation_method": "수능 100%",
+      "source_page": "4, 6"
+    },
+    {
+      "major": "화학공학과",
+      "recruitment_unit": "나군",
+      "selection_category": "기회균형전형II (농어촌학생)",
+      "recruitment_number": 1,
+      "csat_ratios": {
+        "국어": "30% (300점)",
+        "수학": "40% (400점)",
+        "영어": "10% (100점)",
+        "탐구영역": "사회/과학 (2과목) 20% (200점)",
+        "한국사": "등급별 점수 차감",
+        "총점": "100% (1,000점)"
+      },
+      "evaluation_method": "수능 100%",
+      "source_page": "4, 5, 6"
+    },
+    {
+      "major": "화학공학과",
+      "recruitment_unit": "나군",
+      "selection_category": "기회균형전형II (특성화고교출신자)",
+      "recruitment_number": 1,
+      "csat_ratios": {
+        "국어": "30% (300점)",
+        "수학": "40% (400점)",
+        "영어": "10% (100점)",
+        "탐구영역": "사회/과학 (2과목) 20% (200점)",
+        "한국사": "등급별 점수 차감",
+        "총점": "100% (1,000점)"
+      },
+      "evaluation_method": "수능 100%",
+      "source_page": "4, 5, 6"
+    },
+    {
+      "major": "화학공학과",
+      "recruitment_unit": "나군",
+      "selection_category": "기회균형전형II (기초생활수급자등)",
+      "recruitment_number": 1,
+      "csat_ratios": {
+        "국어": "30% (300점)",
+        "수학": "40% (400점)",
+        "영어": "10% (100점)",
+        "탐구영역": "사회/과학 (2과목) 20% (200점)",
+        "한국사": "등급별 점수 차감",
+        "총점": "100% (1,000점)"
+      },
+      "evaluation_method": "수능 100%",
+      "source_page": "4, 5, 6"
+    },
+    {
+      "major": "화학공학과",
+      "recruitment_unit": "나군",
+      "selection_category": "기회균형전형II (장애인 등)",
+      "recruitment_number": null,
+      "csat_ratios": {
+        "국어": "30% (300점)",
+        "수학": "40% (400점)",
+        "영어": "10% (100점)",
+        "탐구영역": "사회/과학 (2과목) 20% (200점)",
+        "한국사": "등급별 점수 차감",
+        "총점": "100% (1,000점)"
+      },
+      "evaluation_method": "수능 100%",
+      "source_page": "4, 5, 6"
+    },
+    {
+      "major": "기계정보공학과",
+      "recruitment_unit": "나군",
+      "selection_category": "일반전형",
+      "recruitment_number": 13,
+      "csat_ratios": {
+        "국어": "30% (300점)",
+        "수학": "40% (400점)",
+        "영어": "10% (100점)",
+        "탐구영역": "사회/과학 (2과목) 20% (200점)",
+        "한국사": "등급별 점수 차감",
+        "총점": "100% (1,000점)"
+      },
+      "evaluation_method": "수능 100%",
+      "source_page": "4, 6"
+    },
+    {
+      "major": "기계정보공학과",
+      "recruitment_unit": "나군",
+      "selection_category": "기회균형전형II (농어촌학생)",
+      "recruitment_number": 1,
+      "csat_ratios": {
+        "국어": "30% (300점)",
+        "수학": "40% (400점)",
+        "영어": "10% (100점)",
+        "탐구영역": "사회/과학 (2과목) 20% (200점)",
+        "한국사": "등급별 점수 차감",
+        "총점": "100% (1,000점)"
+      },
+      "evaluation_method": "수능 100%",
+      "source_page": "4, 5, 6"
+    },
+    {
+      "major": "기계정보공학과",
+      "recruitment_unit": "나군",
+      "selection_category": "기회균형전형II (특성화고교출신자)",
+      "recruitment_number": 1,
+      "csat_ratios": {
+        "국어": "30% (300점)",
+        "수학": "40% (400점)",
+        "영어": "10% (100점)",
+        "탐구영역": "사회/과학 (2과목) 20% (200점)",
+        "한국사": "등급별 점수 차감",
+        "총점": "100% (1,000점)"
+      },
+      "evaluation_method": "수능 100%",
+      "source_page": "4, 5, 6"
+    },
+    {
+      "major": "기계정보공학과",
+      "recruitment_unit": "나군",
+      "selection_category": "기회균형전형II (기초생활수급자등)",
+      "recruitment_number": 1,
+      "csat_ratios": {
+        "국어": "30% (300점)",
+        "수학": "40% (400점)",
+        "영어": "10% (100점)",
+        "탐구영역": "사회/과학 (2과목) 20% (200점)",
+        "한국사": "등급별 점수 차감",
+        "총점": "100% (1,000점)"
+      },
+      "evaluation_method": "수능 100%",
+      "source_page": "4, 5, 6"
+    },
+    {
+      "major": "기계정보공학과",
+      "recruitment_unit": "나군",
+      "selection_category": "기회균형전형II (장애인 등)",
+      "recruitment_number": null,
+      "csat_ratios": {
+        "국어": "30% (300점)",
+        "수학": "40% (400점)",
+        "영어": "10% (100점)",
+        "탐구영역": "사회/과학 (2과목) 20% (200점)",
+        "한국사": "등급별 점수 차감",
+        "총점": "100% (1,000점)"
+      },
+      "evaluation_method": "수능 100%",
+      "source_page": "4, 5, 6"
+    },
+    {
+      "major": "신소재공학과",
+      "recruitment_unit": "나군",
+      "selection_category": "일반전형",
+      "recruitment_number": 23,
+      "csat_ratios": {
+        "국어": "30% (300점)",
+        "수학": "40% (400점)",
+        "영어": "10% (100점)",
+        "탐구영역": "사회/과학 (2과목) 20% (200점)",
+        "한국사": "등급별 점수 차감",
+        "총점": "100% (1,000점)"
+      },
+      "evaluation_method": "수능 100%",
+      "source_page": "4, 6"
+    },
+    {
+      "major": "신소재공학과",
+      "recruitment_unit": "나군",
+      "selection_category": "기회균형전형II (농어촌학생)",
+      "recruitment_number": 1,
+      "csat_ratios": {
+        "국어": "30% (300점)",
+        "수학": "40% (400점)",
+        "영어": "10% (100점)",
+        "탐구영역": "사회/과학 (2과목) 20% (200점)",
+        "한국사": "등급별 점수 차감",
+        "총점": "100% (1,000점)"
+      },
+      "evaluation_method": "수능 100%",
+      "source_page": "4, 5, 6"
+    },
+    {
+      "major": "신소재공학과",
+      "recruitment_unit": "나군",
+      "selection_category": "기회균형전형II (특성화고교출신자)",
+      "recruitment_number": 1,
+      "csat_ratios": {
+        "국어": "30% (300점)",
+        "수학": "40% (400점)",
+        "영어": "10% (100점)",
+        "탐구영역": "사회/과학 (2과목) 20% (200점)",
+        "한국사": "등급별 점수 차감",
+        "총점": "100% (1,000점)"
+      },
+      "evaluation_method": "수능 100%",
+      "source_page": "4, 5, 6"
+    },
+    {
+      "major": "신소재공학과",
+      "recruitment_unit": "나군",
+      "selection_category": "기회균형전형II (기초생활수급자등)",
+      "recruitment_number": 1,
+      "csat_ratios": {
+        "국어": "30% (300점)",
+        "수학": "40% (400점)",
+        "영어": "10% (100점)",
+        "탐구영역": "사회/과학 (2과목) 20% (200점)",
+        "한국사": "등급별 점수 차감",
+        "총점": "100% (1,000점)"
+      },
+      "evaluation_method": "수능 100%",
+      "source_page": "4, 5, 6"
+    },
+    {
+      "major": "신소재공학과",
+      "recruitment_unit": "나군",
+      "selection_category": "기회균형전형II (장애인 등)",
+      "recruitment_number": null,
+      "csat_ratios": {
+        "국어": "30% (300점)",
+        "수학": "40% (400점)",
+        "영어": "10% (100점)",
+        "탐구영역": "사회/과학 (2과목) 20% (200점)",
+        "한국사": "등급별 점수 차감",
+        "총점": "100% (1,000점)"
+      },
+      "evaluation_method": "수능 100%",
+      "source_page": "4, 5, 6"
+    },
+    {
+      "major": "토목공학과",
+      "recruitment_unit": "나군",
+      "selection_category": "일반전형",
+      "recruitment_number": 12,
+      "csat_ratios": {
+        "국어": "30% (300점)",
+        "수학": "40% (400점)",
+        "영어": "10% (100점)",
+        "탐구영역": "사회/과학 (2과목) 20% (200점)",
+        "한국사": "등급별 점수 차감",
+        "총점": "100% (1,000점)"
+      },
+      "evaluation_method": "수능 100%",
+      "source_page": "4, 6"
+    },
+    {
+      "major": "토목공학과",
+      "recruitment_unit": "나군",
+      "selection_category": "기회균형전형II (농어촌학생)",
+      "recruitment_number": 1,
+      "csat_ratios": {
+        "국어": "30% (300점)",
+        "수학": "40% (400점)",
+        "영어": "10% (100점)",
+        "탐구영역": "사회/과학 (2과목) 20% (200점)",
+        "한국사": "등급별 점수 차감",
+        "총점": "100% (1,000점)"
+      },
+      "evaluation_method": "수능 100%",
+      "source_page": "4, 5, 6"
+    },
+    {
+      "major": "토목공학과",
+      "recruitment_unit": "나군",
+      "selection_category": "기회균형전형II (특성화고교출신자)",
+      "recruitment_number": 1,
+      "csat_ratios": {
+        "국어": "30% (300점)",
+        "수학": "40% (400점)",
+        "영어": "10% (100점)",
+        "탐구영역": "사회/과학 (2과목) 20% (200점)",
+        "한국사": "등급별 점수 차감",
+        "총점": "100% (1,000점)"
+      },
+      "evaluation_method": "수능 100%",
+      "source_page": "4, 5, 6"
+    },
+    {
+      "major": "토목공학과",
+      "recruitment_unit": "나군",
+      "selection_category": "기회균형전형II (기초생활수급자등)",
+      "recruitment_number": 1,
+      "csat_ratios": {
+        "국어": "30% (300점)",
+        "수학": "40% (400점)",
+        "영어": "10% (100점)",
+        "탐구영역": "사회/과학 (2과목) 20% (200점)",
+        "한국사": "등급별 점수 차감",
+        "총점": "100% (1,000점)"
+      },
+      "evaluation_method": "수능 100%",
+      "source_page": "4, 5, 6"
+    },
+    {
+      "major": "토목공학과",
+      "recruitment_unit": "나군",
+      "selection_category": "기회균형전형II (장애인 등)",
+      "recruitment_number": null,
+      "csat_ratios": {
+        "국어": "30% (300점)",
+        "수학": "40% (400점)",
+        "영어": "10% (100점)",
+        "탐구영역": "사회/과학 (2과목) 20% (200점)",
+        "한국사": "등급별 점수 차감",
+        "총점": "100% (1,000점)"
+      },
+      "evaluation_method": "수능 100%",
+      "source_page": "4, 5, 6"
+    },
+    {
+      "major": "컴퓨터과학부",
+      "recruitment_unit": "나군",
+      "selection_category": "일반전형",
+      "recruitment_number": 20,
+      "csat_ratios": {
+        "국어": "30% (300점)",
+        "수학": "40% (400점)",
+        "영어": "10% (100점)",
+        "탐구영역": "사회/과학 (2과목) 20% (200점)",
+        "한국사": "등급별 점수 차감",
+        "총점": "100% (1,000점)"
+      },
+      "evaluation_method": "수능 100%",
+      "source_page": "4, 6"
+    },
+    {
+      "major": "컴퓨터과학부",
+      "recruitment_unit": "나군",
+      "selection_category": "기회균형전형II (농어촌학생)",
+      "recruitment_number": 1,
+      "csat_ratios": {
+        "국어": "30% (300점)",
+        "수학": "40% (400점)",
+        "영어": "10% (100점)",
+        "탐구영역": "사회/과학 (2과목) 20% (200점)",
+        "한국사": "등급별 점수 차감",
+        "총점": "100% (1,000점)"
+      },
+      "evaluation_method": "수능 100%",
+      "source_page": "4, 5, 6"
+    },
+    {
+      "major": "컴퓨터과학부",
+      "recruitment_unit": "나군",
+      "selection_category": "기회균형전형II (기초생활수급자등)",
+      "recruitment_number": 1,
+      "csat_ratios": {
+        "국어": "30% (300점)",
+        "수학": "40% (400점)",
+        "영어": "10% (100점)",
+        "탐구영역": "사회/과학 (2과목) 20% (200점)",
+        "한국사": "등급별 점수 차감",
+        "총점": "100% (1,000점)"
+      },
+      "evaluation_method": "수능 100%",
+      "source_page": "4, 5, 6"
+    },
+    {
+      "major": "컴퓨터과학부",
+      "recruitment_unit": "나군",
+      "selection_category": "기회균형전형II (장애인 등)",
+      "recruitment_number": null,
+      "csat_ratios": {
+        "국어": "30% (300점)",
+        "수학": "40% (400점)",
+        "영어": "10% (100점)",
+        "탐구영역": "사회/과학 (2과목) 20% (200점)",
+        "한국사": "등급별 점수 차감",
+        "총점": "100% (1,000점)"
+      },
+      "evaluation_method": "수능 100%",
+      "source_page": "4, 5, 6"
+    },
+    {
+      "major": "인공지능학과",
+      "recruitment_unit": "가군",
+      "selection_category": "일반전형",
+      "recruitment_number": 18,
+      "csat_ratios": {
+        "국어": "30% (300점)",
+        "수학": "40% (400점)",
+        "영어": "10% (100점)",
+        "탐구영역": "사회/과학 (2과목) 20% (200점)",
+        "한국사": "등급별 점수 차감",
+        "총점": "100% (1,000점)"
+      },
+      "evaluation_method": "수능 100%",
+      "source_page": "4, 6"
+    },
+    {
+      "major": "인공지능학과",
+      "recruitment_unit": "가군",
+      "selection_category": "기회균형전형II (농어촌학생)",
+      "recruitment_number": 1,
+      "csat_ratios": {
+        "국어": "30% (300점)",
+        "수학": "40% (400점)",
+        "영어": "10% (100점)",
+        "탐구영역": "사회/과학 (2과목) 20% (200점)",
+        "한국사": "등급별 점수 차감",
+        "총점": "100% (1,000점)"
+      },
+      "evaluation_method": "수능 100%",
+      "source_page": "4, 5, 6"
+    },
+    {
+      "major": "인공지능학과",
+      "recruitment_unit": "가군",
+      "selection_category": "기회균형전형II (기초생활수급자등)",
+      "recruitment_number": 1,
+      "csat_ratios": {
+        "국어": "30% (300점)",
+        "수학": "40% (400점)",
+        "영어": "10% (100점)",
+        "탐구영역": "사회/과학 (2과목) 20% (200점)",
+        "한국사": "등급별 점수 차감",
+        "총점": "100% (1,000점)"
+      },
+      "evaluation_method": "수능 100%",
+      "source_page": "4, 5, 6"
+    },
+    {
+      "major": "수학과",
+      "recruitment_unit": "나군",
+      "selection_category": "일반전형",
+      "recruitment_number": 12,
+      "csat_ratios": {
+        "국어": "30% (300점)",
+        "수학": "40% (400점)",
+        "영어": "10% (100점)",
+        "탐구영역": "사회/과학 (2과목) 20% (200점)",
+        "한국사": "등급별 점수 차감",
+        "총점": "100% (1,000점)"
+      },
+      "evaluation_method": "수능 100%",
+      "source_page": "4, 6"
+    },
+    {
+      "major": "수학과",
+      "recruitment_unit": "나군",
+      "selection_category": "기회균형전형II (농어촌학생)",
+      "recruitment_number": 1,
+      "csat_ratios": {
+        "국어": "30% (300점)",
+        "수학": "40% (400점)",
+        "영어": "10% (100점)",
+        "탐구영역": "사회/과학 (2과목) 20% (200점)",
+        "한국사": "등급별 점수 차감",
+        "총점": "100% (1,000점)"
+      },
+      "evaluation_method": "수능 100%",
+      "source_page": "4, 5, 6"
+    },
+    {
+      "major": "수학과",
+      "recruitment_unit": "나군",
+      "selection_category": "기회균형전형II (특성화고교출신자)",
+      "recruitment_number": 1,
+      "csat_ratios": {
+        "국어": "30% (300점)",
+        "수학": "40% (400점)",
+        "영어": "10% (100점)",
+        "탐구영역": "사회/과학 (2과목) 20% (200점)",
+        "한국사": "등급별 점수 차감",
+        "총점": "100% (1,000점)"
+      },
+      "evaluation_method": "수능 100%",
+      "source_page": "4, 5, 6"
+    },
+    {
+      "major": "수학과",
+      "recruitment_unit": "나군",
+      "selection_category": "기회균형전형II (기초생활수급자등)",
+      "recruitment_number": 1,
+      "csat_ratios": {
+        "국어": "30% (300점)",
+        "수학": "40% (400점)",
+        "영어": "10% (100점)",
+        "탐구영역": "사회/과학 (2과목) 20% (200점)",
+        "한국사": "등급별 점수 차감",
+        "총점": "100% (1,000점)"
+      },
+      "evaluation_method": "수능 100%",
+      "source_page": "4, 5, 6"
+    },
+    {
+      "major": "수학과",
+      "recruitment_unit": "나군",
+      "selection_category": "기회균형전형II (장애인 등)",
+      "recruitment_number": null,
+      "csat_ratios": {
+        "국어": "30% (300점)",
+        "수학": "40% (400점)",
+        "영어": "10% (100점)",
+        "탐구영역": "사회/과학 (2과목) 20% (200점)",
+        "한국사": "등급별 점수 차감",
+        "총점": "100% (1,000점)"
+      },
+      "evaluation_method": "수능 100%",
+      "source_page": "4, 5, 6"
+    },
+    {
+      "major": "통계학과",
+      "recruitment_unit": "나군",
+      "selection_category": "일반전형",
+      "recruitment_number": 10,
+      "csat_ratios": {
+        "국어": "30% (300점)",
+        "수학": "40% (400점)",
+        "영어": "10% (100점)",
+        "탐구영역": "사회/과학 (2과목) 20% (200점)",
+        "한국사": "등급별 점수 차감",
+        "총점": "100% (1,000점)"
+      },
+      "evaluation_method": "수능 100%",
+      "source_page": "4, 6"
+    },
+    {
+      "major": "통계학과",
+      "recruitment_unit": "나군",
+      "selection_category": "기회균형전형II (농어촌학생)",
+      "recruitment_number": 1,
+      "csat_ratios": {
+        "국어": "30% (300점)",
+        "수학": "40% (400점)",
+        "영어": "10% (100점)",
+        "탐구영역": "사회/과학 (2과목) 20% (200점)",
+        "한국사": "등급별 점수 차감",
+        "총점": "100% (1,000점)"
+      },
+      "evaluation_method": "수능 100%",
+      "source_page": "4, 5, 6"
+    },
+    {
+      "major": "통계학과",
+      "recruitment_unit": "나군",
+      "selection_category": "기회균형전형II (특성화고교출신자)",
+      "recruitment_number": 1,
+      "csat_ratios": {
+        "국어": "30% (300점)",
+        "수학": "40% (400점)",
+        "영어": "10% (100점)",
+        "탐구영역": "사회/과학 (2과목) 20% (200점)",
+        "한국사": "등급별 점수 차감",
+        "총점": "100% (1,000점)"
+      },
+      "evaluation_method": "수능 100%",
+      "source_page": "4, 5, 6"
+    },
+    {
+      "major": "통계학과",
+      "recruitment_unit": "나군",
+      "selection_category": "기회균형전형II (기초생활수급자등)",
+      "recruitment_number": 1,
+      "csat_ratios": {
+        "국어": "30% (300점)",
+        "수학": "40% (400점)",
+        "영어": "10% (100점)",
+        "탐구영역": "사회/과학 (2과목) 20% (200점)",
+        "한국사": "등급별 점수 차감",
+        "총점": "100% (1,000점)"
+      },
+      "evaluation_method": "수능 100%",
+      "source_page": "4, 5, 6"
+    },
+    {
+      "major": "통계학과",
+      "recruitment_unit": "나군",
+      "selection_category": "기회균형전형II (장애인 등)",
+      "recruitment_number": null,
+      "csat_ratios": {
+        "국어": "30% (300점)",
+        "수학": "40% (400점)",
+        "영어": "10% (100점)",
+        "탐구영역": "사회/과학 (2과목) 20% (200점)",
+        "한국사": "등급별 점수 차감",
+        "총점": "100% (1,000점)"
+      },
+      "evaluation_method": "수능 100%",
+      "source_page": "4, 5, 6"
+    },
+    {
+      "major": "물리학과",
+      "recruitment_unit": "나군",
+      "selection_category": "일반전형",
+      "recruitment_number": 8,
+      "csat_ratios": {
+        "국어": "30% (300점)",
+        "수학": "40% (400점)",
+        "영어": "10% (100점)",
+        "탐구영역": "사회/과학 (2과목) 20% (200점)",
+        "한국사": "등급별 점수 차감",
+        "총점": "100% (1,000점)"
+      },
+      "evaluation_method": "수능 100%",
+      "source_page": "4, 6"
+    },
+    {
+      "major": "물리학과",
+      "recruitment_unit": "나군",
+      "selection_category": "기회균형전형II (농어촌학생)",
+      "recruitment_number": 1,
+      "csat_ratios": {
+        "국어": "30% (300점)",
+        "수학": "40% (400점)",
+        "영어": "10% (100점)",
+        "탐구영역": "사회/과학 (2과목) 20% (200점)",
+        "한국사": "등급별 점수 차감",
+        "총점": "100% (1,000점)"
+      },
+      "evaluation_method": "수능 100%",
+      "source_page": "4, 5, 6"
+    },
+    {
+      "major": "물리학과",
+      "recruitment_unit": "나군",
+      "selection_category": "기회균형전형II (특성화고교출신자)",
+      "recruitment_number": 1,
+      "csat_ratios": {
+        "국어": "30% (300점)",
+        "수학": "40% (400점)",
+        "영어": "10% (100점)",
+        "탐구영역": "사회/과학 (2과목) 20% (200점)",
+        "한국사": "등급별 점수 차감",
+        "총점": "100% (1,000점)"
+      },
+      "evaluation_method": "수능 100%",
+      "source_page": "4, 5, 6"
+    },
+    {
+      "major": "물리학과",
+      "recruitment_unit": "나군",
+      "selection_category": "기회균형전형II (기초생활수급자등)",
+      "recruitment_number": 1,
+      "csat_ratios": {
+        "국어": "30% (300점)",
+        "수학": "40% (400점)",
+        "영어": "10% (100점)",
+        "탐구영역": "사회/과학 (2과목) 20% (200점)",
+        "한국사": "등급별 점수 차감",
+        "총점": "100% (1,000점)"
+      },
+      "evaluation_method": "수능 100%",
+      "source_page": "4, 5, 6"
+    },
+    {
+      "major": "물리학과",
+      "recruitment_unit": "나군",
+      "selection_category": "기회균형전형II (장애인 등)",
+      "recruitment_number": null,
+      "csat_ratios": {
+        "국어": "30% (300점)",
+        "수학": "40% (400점)",
+        "영어": "10% (100점)",
+        "탐구영역": "사회/과학 (2과목) 20% (200점)",
+        "한국사": "등급별 점수 차감",
+        "총점": "100% (1,000점)"
+      },
+      "evaluation_method": "수능 100%",
+      "source_page": "4, 5, 6"
+    },
+    {
+      "major": "생명과학과",
+      "recruitment_unit": "나군",
+      "selection_category": "일반전형",
+      "recruitment_number": 10,
+      "csat_ratios": {
+        "국어": "30% (300점)",
+        "수학": "40% (400점)",
+        "영어": "10% (100점)",
+        "탐구영역": "사회/과학 (2과목) 20% (200점)",
+        "한국사": "등급별 점수 차감",
+        "총점": "100% (1,000점)"
+      },
+      "evaluation_method": "수능 100%",
+      "source_page": "4, 6"
+    },
+    {
+      "major": "생명과학과",
+      "recruitment_unit": "나군",
+      "selection_category": "기회균형전형II (농어촌학생)",
+      "recruitment_number": 1,
+      "csat_ratios": {
+        "국어": "30% (300점)",
+        "수학": "40% (400점)",
+        "영어": "10% (100점)",
+        "탐구영역": "사회/과학 (2과목) 20% (200점)",
+        "한국사": "등급별 점수 차감",
+        "총점": "100% (1,000점)"
+      },
+      "evaluation_method": "수능 100%",
+      "source_page": "4, 5, 6"
+    },
+    {
+      "major": "생명과학과",
+      "recruitment_unit": "나군",
+      "selection_category": "기회균형전형II (특성화고교출신자)",
+      "recruitment_number": 1,
+      "csat_ratios": {
+        "국어": "30% (300점)",
+        "수학": "40% (400점)",
+        "영어": "10% (100점)",
+        "탐구영역": "사회/과학 (2과목) 20% (200점)",
+        "한국사": "등급별 점수 차감",
+        "총점": "100% (1,000점)"
+      },
+      "evaluation_method": "수능 100%",
+      "source_page": "4, 5, 6"
+    },
+    {
+      "major": "생명과학과",
+      "recruitment_unit": "나군",
+      "selection_category": "기회균형전형II (기초생활수급자등)",
+      "recruitment_number": 1,
+      "csat_ratios": {
+        "국어": "30% (300점)",
+        "수학": "40% (400점)",
+        "영어": "10% (100점)",
+        "탐구영역": "사회/과학 (2과목) 20% (200점)",
+        "한국사": "등급별 점수 차감",
+        "총점": "100% (1,000점)"
+      },
+      "evaluation_method": "수능 100%",
+      "source_page": "4, 5, 6"
+    },
+    {
+      "major": "생명과학과",
+      "recruitment_unit": "나군",
+      "selection_category": "기회균형전형II (장애인 등)",
+      "recruitment_number": null,
+      "csat_ratios": {
+        "국어": "30% (300점)",
+        "수학": "40% (400점)",
+        "영어": "10% (100점)",
+        "탐구영역": "사회/과학 (2과목) 20% (200점)",
+        "한국사": "등급별 점수 차감",
+        "총점": "100% (1,000점)"
+      },
+      "evaluation_method": "수능 100%",
+      "source_page": "4, 5, 6"
+    },
+    {
+      "major": "환경원예학과",
+      "recruitment_unit": "나군",
+      "selection_category": "일반전형",
+      "recruitment_number": 9,
+      "csat_ratios": {
+        "국어": "30% (300점)",
+        "수학": "40% (400점)",
+        "영어": "10% (100점)",
+        "탐구영역": "사회/과학 (2과목) 20% (200점)",
+        "한국사": "등급별 점수 차감",
+        "총점": "100% (1,000점)"
+      },
+      "evaluation_method": "수능 100%",
+      "source_page": "4, 6"
+    },
+    {
+      "major": "환경원예학과",
+      "recruitment_unit": "나군",
+      "selection_category": "기회균형전형II (농어촌학생)",
+      "recruitment_number": 1,
+      "csat_ratios": {
+        "국어": "30% (300점)",
+        "수학": "40% (400점)",
+        "영어": "10% (100점)",
+        "탐구영역": "사회/과학 (2과목) 20% (200점)",
+        "한국사": "등급별 점수 차감",
+        "총점": "100% (1,000점)"
+      },
+      "evaluation_method": "수능 100%",
+      "source_page": "4, 5, 6"
+    },
+    {
+      "major": "환경원예학과",
+      "recruitment_unit": "나군",
+      "selection_category": "기회균형전형II (특성화고교출신자)",
+      "recruitment_number": 1,
+      "csat_ratios": {
+        "국어": "30% (300점)",
+        "수학": "40% (400점)",
+        "영어": "10% (100점)",
+        "탐구영역": "사회/과학 (2과목) 20% (200점)",
+        "한국사": "등급별 점수 차감",
+        "총점": "100% (1,000점)"
+      },
+      "evaluation_method": "수능 100%",
+      "source_page": "4, 5, 6"
+    },
+    {
+      "major": "환경원예학과",
+      "recruitment_unit": "나군",
+      "selection_category": "기회균형전형II (기초생활수급자등)",
+      "recruitment_number": 1,
+      "csat_ratios": {
+        "국어": "30% (300점)",
+        "수학": "40% (400점)",
+        "영어": "10% (100점)",
+        "탐구영역": "사회/과학 (2과목) 20% (200점)",
+        "한국사": "등급별 점수 차감",
+        "총점": "100% (1,000점)"
+      },
+      "evaluation_method": "수능 100%",
+      "source_page": "4, 5, 6"
+    },
+    {
+      "major": "환경원예학과",
+      "recruitment_unit": "나군",
+      "selection_category": "기회균형전형II (장애인 등)",
+      "recruitment_number": null,
+      "csat_ratios": {
+        "국어": "30% (300점)",
+        "수학": "40% (400점)",
+        "영어": "10% (100점)",
+        "탐구영역": "사회/과학 (2과목) 20% (200점)",
+        "한국사": "등급별 점수 차감",
+        "총점": "100% (1,000점)"
+      },
+      "evaluation_method": "수능 100%",
+      "source_page": "4, 5, 6"
+    },
+    {
+      "major": "융합응용화학과",
+      "recruitment_unit": "다군",
+      "selection_category": "일반전형",
+      "recruitment_number": 8,
+      "csat_ratios": {
+        "국어": "30% (300점)",
+        "수학": "40% (400점)",
+        "영어": "10% (100점)",
+        "탐구영역": "사회/과학 (2과목) 20% (200점)",
+        "한국사": "등급별 점수 차감",
+        "총점": "100% (1,000점)"
+      },
+      "evaluation_method": "수능 100%",
+      "source_page": "4, 6"
+    },
+    {
+      "major": "융합응용화학과",
+      "recruitment_unit": "다군",
+      "selection_category": "기회균형전형II (농어촌학생)",
+      "recruitment_number": 1,
+      "csat_ratios": {
+        "국어": "30% (300점)",
+        "수학": "40% (400점)",
+        "영어": "10% (100점)",
+        "탐구영역": "사회/과학 (2과목) 20% (200점)",
+        "한국사": "등급별 점수 차감",
+        "총점": "100% (1,000점)"
+      },
+      "evaluation_method": "수능 100%",
+      "source_page": "4, 5, 6"
+    },
+    {
+      "major": "융합응용화학과",
+      "recruitment_unit": "다군",
+      "selection_category": "기회균형전형II (기초생활수급자등)",
+      "recruitment_number": 1,
+      "csat_ratios": {
+        "국어": "30% (300점)",
+        "수학": "40% (400점)",
+        "영어": "10% (100점)",
+        "탐구영역": "사회/과학 (2과목) 20% (200점)",
+        "한국사": "등급별 점수 차감",
+        "총점": "100% (1,000점)"
+      },
+      "evaluation_method": "수능 100%",
+      "source_page": "4, 5, 6"
+    },
+    {
+      "major": "건축학부(건축공학전공)",
+      "recruitment_unit": "나군",
+      "selection_category": "일반전형",
+      "recruitment_number": 12,
+      "csat_ratios": {
+        "국어": "30% (300점)",
+        "수학": "40% (400점)",
+        "영어": "10% (100점)",
+        "탐구영역": "사회/과학 (2과목) 20% (200점)",
+        "한국사": "등급별 점수 차감",
+        "총점": "100% (1,000점)"
+      },
+      "evaluation_method": "수능 100%",
+      "source_page": "4, 6"
+    },
+    {
+      "major": "건축학부(건축공학전공)",
+      "recruitment_unit": "나군",
+      "selection_category": "기회균형전형II (농어촌학생)",
+      "recruitment_number": 1,
+      "csat_ratios": {
+        "국어": "30% (300점)",
+        "수학": "40% (400점)",
+        "영어": "10% (100점)",
+        "탐구영역": "사회/과학 (2과목) 20% (200점)",
+        "한국사": "등급별 점수 차감",
+        "총점": "100% (1,000점)"
+      },
+      "evaluation_method": "수능 100%",
+      "source_page": "4, 5, 6"
+    },
+    {
+      "major": "건축학부(건축공학전공)",
+      "recruitment_unit": "나군",
+      "selection_category": "기회균형전형II (특성화고교출신자)",
+      "recruitment_number": 1,
+      "csat_ratios": {
+        "국어": "30% (300점)",
+        "수학": "40% (400점)",
+        "영어": "10% (100점)",
+        "탐구영역": "사회/과학 (2과목) 20% (200점)",
+        "한국사": "등급별 점수 차감",
+        "총점": "100% (1,000점)"
+      },
+      "evaluation_method": "수능 100%",
+      "source_page": "4, 5, 6"
+    },
+    {
+      "major": "건축학부(건축공학전공)",
+      "recruitment_unit": "나군",
+      "selection_category": "기회균형전형II (기초생활수급자등)",
+      "recruitment_number": 1,
+      "csat_ratios": {
+        "국어": "30% (300점)",
+        "수학": "40% (400점)",
+        "영어": "10% (100점)",
+        "탐구영역": "사회/과학 (2과목) 20% (200점)",
+        "한국사": "등급별 점수 차감",
+        "총점": "100% (1,000점)"
+      },
+      "evaluation_method": "수능 100%",
+      "source_page": "4, 5, 6"
+    },
+    {
+      "major": "건축학부(건축공학전공)",
+      "recruitment_unit": "나군",
+      "selection_category": "기회균형전형II (장애인 등)",
+      "recruitment_number": null,
+      "csat_ratios": {
+        "국어": "30% (300점)",
+        "수학": "40% (400점)",
+        "영어": "10% (100점)",
+        "탐구영역": "사회/과학 (2과목) 20% (200점)",
+        "한국사": "등급별 점수 차감",
+        "총점": "100% (1,000점)"
+      },
+      "evaluation_method": "수능 100%",
+      "source_page": "4, 5, 6"
+    },
+    {
+      "major": "건축학부(건축학전공)",
+      "recruitment_unit": "나군",
+      "selection_category": "일반전형",
+      "recruitment_number": 9,
+      "csat_ratios": {
+        "국어": "30% (300점)",
+        "수학": "40% (400점)",
+        "영어": "10% (100점)",
+        "탐구영역": "사회/과학 (2과목) 20% (200점)",
+        "한국사": "등급별 점수 차감",
+        "총점": "100% (1,000점)"
+      },
+      "evaluation_method": "수능 100%",
+      "source_page": "4, 6"
+    },
+    {
+      "major": "건축학부(건축학전공)",
+      "recruitment_unit": "나군",
+      "selection_category": "기회균형전형II (농어촌학생)",
+      "recruitment_number": 1,
+      "csat_ratios": {
+        "국어": "30% (300점)",
+        "수학": "40% (400점)",
+        "영어": "10% (100점)",
+        "탐구영역": "사회/과학 (2과목) 20% (200점)",
+        "한국사": "등급별 점수 차감",
+        "총점": "100% (1,000점)"
+      },
+      "evaluation_method": "수능 100%",
+      "source_page": "4, 5, 6"
+    },
+    {
+      "major": "건축학부(건축학전공)",
+      "recruitment_unit": "나군",
+      "selection_category": "기회균형전형II (특성화고교출신자)",
+      "recruitment_number": 1,
+      "csat_ratios": {
+        "국어": "30% (300점)",
+        "수학": "40% (400점)",
+        "영어": "10% (100점)",
+        "탐구영역": "사회/과학 (2과목) 20% (200점)",
+        "한국사": "등급별 점수 차감",
+        "총점": "100% (1,000점)"
+      },
+      "evaluation_method": "수능 100%",
+      "source_page": "4, 5, 6"
+    },
+    {
+      "major": "건축학부(건축학전공)",
+      "recruitment_unit": "나군",
+      "selection_category": "기회균형전형II (기초생활수급자등)",
+      "recruitment_number": 1,
+      "csat_ratios": {
+        "국어": "30% (300점)",
+        "수학": "40% (400점)",
+        "영어": "10% (100점)",
+        "탐구영역": "사회/과학 (2과목) 20% (200점)",
+        "한국사": "등급별 점수 차감",
+        "총점": "100% (1,000점)"
+      },
+      "evaluation_method": "수능 100%",
+      "source_page": "4, 5, 6"
+    },
+    {
+      "major": "건축학부(건축학전공)",
+      "recruitment_unit": "나군",
+      "selection_category": "기회균형전형II (장애인 등)",
+      "recruitment_number": null,
+      "csat_ratios": {
+        "국어": "30% (300점)",
+        "수학": "40% (400점)",
+        "영어": "10% (100점)",
+        "탐구영역": "사회/과학 (2과목) 20% (200점)",
+        "한국사": "등급별 점수 차감",
+        "총점": "100% (1,000점)"
+      },
+      "evaluation_method": "수능 100%",
+      "source_page": "4, 5, 6"
+    },
+    {
+      "major": "도시공학과",
+      "recruitment_unit": "나군",
+      "selection_category": "일반전형",
+      "recruitment_number": 8,
+      "csat_ratios": {
+        "국어": "30% (300점)",
+        "수학": "40% (400점)",
+        "영어": "10% (100점)",
+        "탐구영역": "사회/과학 (2과목) 20% (200점)",
+        "한국사": "등급별 점수 차감",
+        "총점": "100% (1,000점)"
+      },
+      "evaluation_method": "수능 100%",
+      "source_page": "4, 6"
+    },
+    {
+      "major": "도시공학과",
+      "recruitment_unit": "나군",
+      "selection_category": "기회균형전형II (농어촌학생)",
+      "recruitment_number": 1,
+      "csat_ratios": {
+        "국어": "30% (300점)",
+        "수학": "40% (400점)",
+        "영어": "10% (100점)",
+        "탐구영역": "사회/과학 (2과목) 20% (200점)",
+        "한국사": "등급별 점수 차감",
+        "총점": "100% (1,000점)"
+      },
+      "evaluation_method": "수능 100%",
+      "source_page": "4, 5, 6"
+    },
+    {
+      "major": "도시공학과",
+      "recruitment_unit": "나군",
+      "selection_category": "기회균형전형II (특성화고교출신자)",
+      "recruitment_number": 1,
+      "csat_ratios": {
+        "국어": "30% (300점)",
+        "수학": "40% (400점)",
+        "영어": "10% (100점)",
+        "탐구영역": "사회/과학 (2과목) 20% (200점)",
+        "한국사": "등급별 점수 차감",
+        "총점": "100% (1,000점)"
+      },
+      "evaluation_method": "수능 100%",
+      "source_page": "4, 5, 6"
+    },
+    {
+      "major": "도시공학과",
+      "recruitment_unit": "나군",
+      "selection_category": "기회균형전형II (기초생활수급자등)",
+      "recruitment_number": 1,
+      "csat_ratios": {
+        "국어": "30% (300점)",
+        "수학": "40% (400점)",
+        "영어": "10% (100점)",
+        "탐구영역": "사회/과학 (2과목) 20% (200점)",
+        "한국사": "등급별 점수 차감",
+        "총점": "100% (1,000점)"
+      },
+      "evaluation_method": "수능 100%",
+      "source_page": "4, 5, 6"
+    },
+    {
+      "major": "도시공학과",
+      "recruitment_unit": "나군",
+      "selection_category": "기회균형전형II (장애인 등)",
+      "recruitment_number": null,
+      "csat_ratios": {
+        "국어": "30% (300점)",
+        "수학": "40% (400점)",
+        "영어": "10% (100점)",
+        "탐구영역": "사회/과학 (2과목) 20% (200점)",
+        "한국사": "등급별 점수 차감",
+        "총점": "100% (1,000점)"
+      },
+      "evaluation_method": "수능 100%",
+      "source_page": "4, 5, 6"
+    },
+    {
+      "major": "교통공학과",
+      "recruitment_unit": "나군",
+      "selection_category": "일반전형",
+      "recruitment_number": 6,
+      "csat_ratios": {
+        "국어": "30% (300점)",
+        "수학": "40% (400점)",
+        "영어": "10% (100점)",
+        "탐구영역": "사회/과학 (2과목) 20% (200점)",
+        "한국사": "등급별 점수 차감",
+        "총점": "100% (1,000점)"
+      },
+      "evaluation_method": "수능 100%",
+      "source_page": "4, 6"
+    },
+    {
+      "major": "교통공학과",
+      "recruitment_unit": "나군",
+      "selection_category": "기회균형전형II (농어촌학생)",
+      "recruitment_number": 1,
+      "csat_ratios": {
+        "국어": "30% (300점)",
+        "수학": "40% (400점)",
+        "영어": "10% (100점)",
+        "탐구영역": "사회/과학 (2과목) 20% (200점)",
+        "한국사": "등급별 점수 차감",
+        "총점": "100% (1,000점)"
+      },
+      "evaluation_method": "수능 100%",
+      "source_page": "4, 5, 6"
+    },
+    {
+      "major": "교통공학과",
+      "recruitment_unit": "나군",
+      "selection_category": "기회균형전형II (특성화고교출신자)",
+      "recruitment_number": 1,
+      "csat_ratios": {
+        "국어": "30% (300점)",
+        "수학": "40% (400점)",
+        "영어": "10% (100점)",
+        "탐구영역": "사회/과학 (2과목) 20% (200점)",
+        "한국사": "등급별 점수 차감",
+        "총점": "100% (1,000점)"
+      },
+      "evaluation_method": "수능 100%",
+      "source_page": "4, 5, 6"
+    },
+    {
+      "major": "교통공학과",
+      "recruitment_unit": "나군",
+      "selection_category": "기회균형전형II (기초생활수급자등)",
+      "recruitment_number": 1,
+      "csat_ratios": {
+        "국어": "30% (300점)",
+        "수학": "40% (400점)",
+        "영어": "10% (100점)",
+        "탐구영역": "사회/과학 (2과목) 20% (200점)",
+        "한국사": "등급별 점수 차감",
+        "총점": "100% (1,000점)"
+      },
+      "evaluation_method": "수능 100%",
+      "source_page": "4, 5, 6"
+    },
+    {
+      "major": "교통공학과",
+      "recruitment_unit": "나군",
+      "selection_category": "기회균형전형II (장애인 등)",
+      "recruitment_number": null,
+      "csat_ratios": {
+        "국어": "30% (300점)",
+        "수학": "40% (400점)",
+        "영어": "10% (100점)",
+        "탐구영역": "사회/과학 (2과목) 20% (200점)",
+        "한국사": "등급별 점수 차감",
+        "총점": "100% (1,000점)"
+      },
+      "evaluation_method": "수능 100%",
+      "source_page": "4, 5, 6"
+    },
+    {
+      "major": "조경학과",
+      "recruitment_unit": "나군",
+      "selection_category": "일반전형",
+      "recruitment_number": 8,
+      "csat_ratios": {
+        "국어": "30% (300점)",
+        "수학": "35% (350점)",
+        "영어": "10% (100점)",
+        "탐구영역": "사회/과학 (2과목) 25% (250점)",
+        "한국사": "등급별 점수 차감",
+        "총점": "100% (1,000점)"
+      },
+      "evaluation_method": "수능 100%",
+      "source_page": "4, 6"
+    },
+    {
+      "major": "조경학과",
+      "recruitment_unit": "나군",
+      "selection_category": "기회균형전형II (농어촌학생)",
+      "recruitment_number": 1,
+      "csat_ratios": {
+        "국어": "30% (300점)",
+        "수학": "35% (350점)",
+        "영어": "10% (100점)",
+        "탐구영역": "사회/과학 (2과목) 25% (250점)",
+        "한국사": "등급별 점수 차감",
+        "총점": "100% (1,000점)"
+      },
+      "evaluation_method": "수능 100%",
+      "source_page": "4, 5, 6"
+    },
+    {
+      "major": "조경학과",
+      "recruitment_unit": "나군",
+      "selection_category": "기회균형전형II (특성화고교출신자)",
+      "recruitment_number": 1,
+      "csat_ratios": {
+        "국어": "30% (300점)",
+        "수학": "35% (350점)",
+        "영어": "10% (100점)",
+        "탐구영역": "사회/과학 (2과목) 25% (250점)",
+        "한국사": "등급별 점수 차감",
+        "총점": "100% (1,000점)"
+      },
+      "evaluation_method": "수능 100%",
+      "source_page": "4, 5, 6"
+    },
+    {
+      "major": "조경학과",
+      "recruitment_unit": "나군",
+      "selection_category": "기회균형전형II (기초생활수급자등)",
+      "recruitment_number": 1,
+      "csat_ratios": {
+        "국어": "30% (300점)",
+        "수학": "35% (350점)",
+        "영어": "10% (100점)",
+        "탐구영역": "사회/과학 (2과목) 25% (250점)",
+        "한국사": "등급별 점수 차감",
+        "총점": "100% (1,000점)"
+      },
+      "evaluation_method": "수능 100%",
+      "source_page": "4, 5, 6"
+    },
+    {
+      "major": "조경학과",
+      "recruitment_unit": "나군",
+      "selection_category": "기회균형전형II (장애인 등)",
+      "recruitment_number": null,
+      "csat_ratios": {
+        "국어": "30% (300점)",
+        "수학": "35% (350점)",
+        "영어": "10% (100점)",
+        "탐구영역": "사회/과학 (2과목) 25% (250점)",
+        "한국사": "등급별 점수 차감",
+        "총점": "100% (1,000점)"
+      },
+      "evaluation_method": "수능 100%",
+      "source_page": "4, 5, 6"
+    },
+    {
+      "major": "환경공학부",
+      "recruitment_unit": "나군",
+      "selection_category": "일반전형",
+      "recruitment_number": 27,
+      "csat_ratios": {
+        "국어": "30% (300점)",
+        "수학": "40% (400점)",
+        "영어": "10% (100점)",
+        "탐구영역": "사회/과학 (2과목) 20% (200점)",
+        "한국사": "등급별 점수 차감",
+        "총점": "100% (1,000점)"
+      },
+      "evaluation_method": "수능 100%",
+      "source_page": "4, 6"
+    },
+    {
+      "major": "환경공학부",
+      "recruitment_unit": "나군",
+      "selection_category": "기회균형전형II (농어촌학생)",
+      "recruitment_number": 1,
+      "csat_ratios": {
+        "국어": "30% (300점)",
+        "수학": "40% (400점)",
+        "영어": "10% (100점)",
+        "탐구영역": "사회/과학 (2과목) 20% (200점)",
+        "한국사": "등급별 점수 차감",
+        "총점": "100% (1,000점)"
+      },
+      "evaluation_method": "수능 100%",
+      "source_page": "4, 5, 6"
+    },
+    {
+      "major": "환경공학부",
+      "recruitment_unit": "나군",
+      "selection_category": "기회균형전형II (특성화고교출신자)",
+      "recruitment_number": 1,
+      "csat_ratios": {
+        "국어": "30% (300점)",
+        "수학": "40% (400점)",
+        "영어": "10% (100점)",
+        "탐구영역": "사회/과학 (2과목) 20% (200점)",
+        "한국사": "등급별 점수 차감",
+        "총점": "100% (1,000점)"
+      },
+      "evaluation_method": "수능 100%",
+      "source_page": "4, 5, 6"
+    },
+    {
+      "major": "환경공학부",
+      "recruitment_unit": "나군",
+      "selection_category": "기회균형전형II (기초생활수급자등)",
+      "recruitment_number": 1,
+      "csat_ratios": {
+        "국어": "30% (300점)",
+        "수학": "40% (400점)",
+        "영어": "10% (100점)",
+        "탐구영역": "사회/과학 (2과목) 20% (200점)",
+        "한국사": "등급별 점수 차감",
+        "총점": "100% (1,000점)"
+      },
+      "evaluation_method": "수능 100%",
+      "source_page": "4, 5, 6"
+    },
+    {
+      "major": "환경공학부",
+      "recruitment_unit": "나군",
+      "selection_category": "기회균형전형II (장애인 등)",
+      "recruitment_number": null,
+      "csat_ratios": {
+        "국어": "30% (300점)",
+        "수학": "40% (400점)",
+        "영어": "10% (100점)",
+        "탐구영역": "사회/과학 (2과목) 20% (200점)",
+        "한국사": "등급별 점수 차감",
+        "총점": "100% (1,000점)"
+      },
+      "evaluation_method": "수능 100%",
+      "source_page": "4, 5, 6"
+    },
+    {
+      "major": "공간정보공학과",
+      "recruitment_unit": "나군",
+      "selection_category": "일반전형",
+      "recruitment_number": 8,
+      "csat_ratios": {
+        "국어": "30% (300점)",
+        "수학": "40% (400점)",
+        "영어": "10% (100점)",
+        "탐구영역": "사회/과학 (2과목) 20% (200점)",
+        "한국사": "등급별 점수 차감",
+        "총점": "100% (1,000점)"
+      },
+      "evaluation_method": "수능 100%",
+      "source_page": "4, 6"
+    },
+    {
+      "major": "공간정보공학과",
+      "recruitment_unit": "나군",
+      "selection_category": "기회균형전형II (농어촌학생)",
+      "recruitment_number": 1,
+      "csat_ratios": {
+        "국어": "30% (300점)",
+        "수학": "40% (400점)",
+        "영어": "10% (100점)",
+        "탐구영역": "사회/과학 (2과목) 20% (200점)",
+        "한국사": "등급별 점수 차감",
+        "총점": "100% (1,000점)"
+      },
+      "evaluation_method": "수능 100%",
+      "source_page": "4, 5, 6"
+    },
+    {
+      "major": "공간정보공학과",
+      "recruitment_unit": "나군",
+      "selection_category": "기회균형전형II (특성화고교출신자)",
+      "recruitment_number": 1,
+      "csat_ratios": {
+        "국어": "30% (300점)",
+        "수학": "40% (400점)",
+        "영어": "10% (100점)",
+        "탐구영역": "사회/과학 (2과목) 20% (200점)",
+        "한국사": "등급별 점수 차감",
+        "총점": "100% (1,000점)"
+      },
+      "evaluation_method": "수능 100%",
+      "source_page": "4, 5, 6"
+    },
+    {
+      "major": "공간정보공학과",
+      "recruitment_unit": "나군",
+      "selection_category": "기회균형전형II (기초생활수급자등)",
+      "recruitment_number": 1,
+      "csat_ratios": {
+        "국어": "30% (300점)",
+        "수학": "40% (400점)",
+        "영어": "10% (100점)",
+        "탐구영역": "사회/과학 (2과목) 20% (200점)",
+        "한국사": "등급별 점수 차감",
+        "총점": "100% (1,000점)"
+      },
+      "evaluation_method": "수능 100%",
+      "source_page": "4, 5, 6"
+    },
+    {
+      "major": "공간정보공학과",
+      "recruitment_unit": "나군",
+      "selection_category": "기회균형전형II (장애인 등)",
+      "recruitment_number": null,
+      "csat_ratios": {
+        "국어": "30% (300점)",
+        "수학": "40% (400점)",
+        "영어": "10% (100점)",
+        "탐구영역": "사회/과학 (2과목) 20% (200점)",
+        "한국사": "등급별 점수 차감",
+        "총점": "100% (1,000점)"
+      },
+      "evaluation_method": "수능 100%",
+      "source_page": "4, 5, 6"
+    },
+    {
+      "major": "자유전공학부(자연)",
+      "recruitment_unit": "가군",
+      "selection_category": "일반전형",
+      "recruitment_number": 45,
+      "csat_ratios": {
+        "국어": "30% (300점)",
+        "수학": "40% (400점)",
+        "영어": "10% (100점)",
+        "탐구영역": "사회/과학 (2과목) 20% (200점)",
+        "한국사": "등급별 점수 차감",
+        "총점": "100% (1,000점)"
+      },
+      "evaluation_method": "수능 100%",
+      "source_page": "4, 6"
+    },
+    {
+      "major": "융합바이오헬스전공",
+      "recruitment_unit": "다군",
+      "selection_category": "일반전형",
+      "recruitment_number": 2,
+      "csat_ratios": {
+        "국어": "30% (300점)",
+        "수학": "40% (400점)",
+        "영어": "10% (100점)",
+        "탐구영역": "사회/과학 (2과목) 20% (200점)",
+        "한국사": "등급별 점수 차감",
+        "총점": "100% (1,000점)"
+      },
+      "evaluation_method": "수능 100%",
+      "source_page": "4, 6"
+    },
+    {
+      "major": "첨단인공지능전공",
+      "recruitment_unit": "다군",
+      "selection_category": "일반전형",
+      "recruitment_number": 3,
+      "csat_ratios": {
+        "국어": "30% (300점)",
+        "수학": "40% (400점)",
+        "영어": "10% (100점)",
+        "탐구영역": "사회/과학 (2과목) 20% (200점)",
+        "한국사": "등급별 점수 차감",
+        "총점": "100% (1,000점)"
+      },
+      "evaluation_method": "수능 100%",
+      "source_page": "4, 6"
+    },
+    {
+      "major": "지능형반도체전공",
+      "recruitment_unit": "다군",
+      "selection_category": "일반전형",
+      "recruitment_number": 22,
+      "csat_ratios": {
+        "국어": "30% (300점)",
+        "수학": "40% (400점)",
+        "영어": "10% (100점)",
+        "탐구영역": "사회/과학 (2과목) 20% (200점)",
+        "한국사": "등급별 점수 차감",
+        "총점": "100% (1,000점)"
+      },
+      "evaluation_method": "수능 100%",
+      "source_page": "4, 6"
+    },
+    {
+      "major": "음악학과 작곡전공",
+      "recruitment_unit": "가군",
+      "selection_category": "일반전형",
+      "recruitment_number": 3,
+      "csat_ratios": {
+        "국어": "50% (150점)",
+        "수학": "-",
+        "영어": "50% (150점)",
+        "탐구영역": "-",
+        "한국사": "등급별 점수 차감",
+        "총점": "100% (300점)"
+      },
+      "evaluation_method": "수능 및 실기",
+      "source_page": "5, 6, 9"
+    },
+    {
+      "major": "음악학과 피아노전공",
+      "recruitment_unit": "가군",
+      "selection_category": "일반전형",
+      "recruitment_number": 8,
+      "csat_ratios": {
+        "국어": "50% (150점)",
+        "수학": "-",
+        "영어": "50% (150점)",
+        "탐구영역": "-",
+        "한국사": "등급별 점수 차감",
+        "총점": "100% (300점)"
+      },
+      "evaluation_method": "수능 및 실기",
+      "source_page": "5, 6, 9"
+    },
+    {
+      "major": "음악학과 성악전공",
+      "recruitment_unit": "가군",
+      "selection_category": "일반전형",
+      "recruitment_number": 0,
+      "csat_ratios": {
+        "국어": "50% (150점)",
+        "수학": "-",
+        "영어": "50% (150점)",
+        "탐구영역": "-",
+        "한국사": "등급별 점수 차감",
+        "총점": "100% (300점)"
+      },
+      "evaluation_method": "수능 및 실기",
+      "source_page": "5, 6, 9"
+    },
+    {
+      "major": "음악학과 관현악전공",
+      "recruitment_unit": "가군",
+      "selection_category": "일반전형",
+      "recruitment_number": 10,
+      "csat_ratios": {
+        "국어": "50% (150점)",
+        "수학": "-",
+        "영어": "50% (150점)",
+        "탐구영역": "-",
+        "한국사": "등급별 점수 차감",
+        "총점": "100% (300점)"
+      },
+      "evaluation_method": "수능 및 실기",
+      "source_page": "5, 6, 9"
+    },
+    {
+      "major": "디자인학과 시각디자인전공",
+      "recruitment_unit": "가군",
+      "selection_category": "일반전형",
+      "recruitment_number": 14,
+      "csat_ratios": {
+        "국어": "50% (200점)",
+        "수학": "-",
+        "영어": "30% (120점)",
+        "탐구영역": "사회/과학 (2과목) 20% (80점)",
+        "한국사": "등급별 점수 차감",
+        "총점": "100% (400점)"
+      },
+      "evaluation_method": "수능, 실기 및 면접",
+      "source_page": "5, 6, 9"
+    },
+    {
+      "major": "디자인학과 산업디자인전공",
+      "recruitment_unit": "가군",
+      "selection_category": "일반전형",
+      "recruitment_number": 15,
+      "csat_ratios": {
+        "국어": "50% (200점)",
+        "수학": "-",
+        "영어": "30% (120점)",
+        "탐구영역": "사회/과학 (2과목) 20% (80점)",
+        "한국사": "등급별 점수 차감",
+        "총점": "100% (400점)"
+      },
+      "evaluation_method": "수능, 실기 및 면접",
+      "source_page": "5, 6, 9"
+    },
+    {
+      "major": "조각학과",
+      "recruitment_unit": "가군",
+      "selection_category": "일반전형",
+      "recruitment_number": 36,
+      "csat_ratios": {
+        "국어": "40% (120점)",
+        "수학": "-",
+        "영어": "40% (120점)",
+        "탐구영역": "사회/과학 (2과목) 20% (60점)",
+        "한국사": "등급별 점수 차감",
+        "총점": "100% (300점)"
+      },
+      "evaluation_method": "수능, 실기 및 면접",
+      "source_page": "5, 6, 9"
+    },
+    {
+      "major": "스포츠과학과",
+      "recruitment_unit": "나군",
+      "selection_category": "일반전형",
+      "recruitment_number": 30,
+      "csat_ratios": {
+        "국어": "40% (200점)",
+        "수학": "30% (150점)",
+        "영어": "30% (150점)",
+        "탐구영역": "-",
+        "한국사": "등급별 점수 차감",
+        "총점": "100% (500점)"
+      },
+      "evaluation_method": "수능 및 실기",
+      "source_page": "5, 6, 9"
+    },
+    {
+      "major": "도시행정학과",
+      "recruitment_unit": "<가>군",
+      "selection_category": "인문·자연계열 일반전형(수능위주)",
+      "recruitment_number": "4~5쪽 <I. 모집단위별 입학정원 및 전형유형별 모집인원> 확인",
+      "csat_ratios": "대학수학능력시험 100% (1,000점)",
+      "evaluation_method": "대학수학능력시험 100% (1,000점), 학교생활기록부 반영 없음 (단, 학교폭력 조치사항 감점), 합격자는 총점 순위에 따라 성적이 높은 순으로 선발, 동점자 처리 기준: 1순위 수능 수학영역 표준점수 우수자, 2순위 수능 국어영역 표준점수 우수자, 3순위 수능 탐구영역 백분위점수 (2과목 평균) 우수자, 4순위 수능 탐구영역 표준점수 (2과목) 합산점수 우수자, 5순위 수능 영어영역 등급 우수자, 6순위 수능 한국사영역 등급 우수자",
+      "source_page": "16"
+    },
+    {
+      "major": "인공지능학과",
+      "recruitment_unit": "<가>군",
+      "selection_category": "인문·자연계열 일반전형(수능위주)",
+      "recruitment_number": "4~5쪽 <I. 모집단위별 입학정원 및 전형유형별 모집인원> 확인",
+      "csat_ratios": "대학수학능력시험 100% (1,000점)",
+      "evaluation_method": "대학수학능력시험 100% (1,000점), 학교생활기록부 반영 없음 (단, 학교폭력 조치사항 감점), 합격자는 총점 순위에 따라 성적이 높은 순으로 선발, 동점자 처리 기준: 1순위 수능 수학영역 표준점수 우수자, 2순위 수능 국어영역 표준점수 우수자, 3순위 수능 탐구영역 백분위점수 (2과목 평균) 우수자, 4순위 수능 탐구영역 표준점수 (2과목) 합산점수 우수자, 5순위 수능 영어영역 등급 우수자, 6순위 수능 한국사영역 등급 우수자",
+      "source_page": "16"
+    },
+    {
+      "major": "자유전공학부",
+      "recruitment_unit": "<가>군",
+      "selection_category": "인문·자연계열 일반전형(수능위주)",
+      "recruitment_number": "4~5쪽 <I. 모집단위별 입학정원 및 전형유형별 모집인원> 확인",
+      "csat_ratios": "대학수학능력시험 100% (1,000점)",
+      "evaluation_method": "대학수학능력시험 100% (1,000점), 학교생활기록부 반영 없음 (단, 학교폭력 조치사항 감점), 합격자는 총점 순위에 따라 성적이 높은 순으로 선발, 동점자 처리 기준: 1순위 수능 수학영역 표준점수 우수자, 2순위 수능 국어영역 표준점수 우수자, 3순위 수능 탐구영역 백분위점수 (2과목 평균) 우수자, 4순위 수능 탐구영역 표준점수 (2과목) 합산점수 우수자, 5순위 수능 영어영역 등급 우수자, 6순위 수능 한국사영역 등급 우수자",
+      "source_page": "16"
+    },
+    {
+      "major": "음악학과 (작곡전공)",
+      "recruitment_unit": "<가>군",
+      "selection_category": "예체능계열 일반전형(실기/실적위주)",
+      "recruitment_number": "3명",
+      "csat_ratios": "대학수학능력시험 30% (300점)",
+      "evaluation_method": "실기고사 60% (600점), 대학수학능력시험 30% (300점), 학교생활기록부 10% (100점) 일괄 합산 선발, 총점 순위 선발, 학교폭력 조치사항 감점, 동점자 처리 기준: 1순위 실기고사 성적 우수자, 2순위 수능 국어영역 표준점수 우수자, 3순위 수능 영어영역 등급 우수자, 4순위 학생부 성적 우수자",
+      "source_page": "17"
+    },
+    {
+      "major": "음악학과 (피아노전공)",
+      "recruitment_unit": "<가>군",
+      "selection_category": "예체능계열 일반전형(실기/실적위주)",
+      "recruitment_number": "8명",
+      "csat_ratios": "대학수학능력시험 30% (300점)",
+      "evaluation_method": "실기고사 60% (600점), 대학수학능력시험 30% (300점), 학교생활기록부 10% (100점) 일괄 합산 선발, 총점 순위 선발, 학교폭력 조치사항 감점, 동점자 처리 기준: 1순위 실기고사 성적 우수자, 2순위 수능 국어영역 표준점수 우수자, 3순위 수능 영어영역 등급 우수자, 4순위 학생부 성적 우수자",
+      "source_page": "17"
+    },
+    {
+      "major": "음악학과 (관현악전공 - 바이올린)",
+      "recruitment_unit": "<가>군",
+      "selection_category": "예체능계열 일반전형(실기/실적위주)",
+      "recruitment_number": "3명",
+      "csat_ratios": "대학수학능력시험 30% (300점)",
+      "evaluation_method": "실기고사 60% (600점), 대학수학능력시험 30% (300점), 학교생활기록부 10% (100점) 일괄 합산 선발, 총점 순위 선발, 학교폭력 조치사항 감점, 동점자 처리 기준: 1순위 실기고사 성적 우수자, 2순위 수능 국어영역 표준점수 우수자, 3순위 수능 영어영역 등급 우수자, 4순위 학생부 성적 우수자",
+      "source_page": "17"
+    },
+    {
+      "major": "음악학과 (관현악전공 - 첼로)",
+      "recruitment_unit": "<가>군",
+      "selection_category": "예체능계열 일반전형(실기/실적위주)",
+      "recruitment_number": "1명",
+      "csat_ratios": "대학수학능력시험 30% (300점)",
+      "evaluation_method": "실기고사 60% (600점), 대학수학능력시험 30% (300점), 학교생활기록부 10% (100점) 일괄 합산 선발, 총점 순위 선발, 학교폭력 조치사항 감점, 동점자 처리 기준: 1순위 실기고사 성적 우수자, 2순위 수능 국어영역 표준점수 우수자, 3순위 수능 영어영역 등급 우수자, 4순위 학생부 성적 우수자",
+      "source_page": "17"
+    },
+    {
+      "major": "음악학과 (관현악전공 - 비올라)",
+      "recruitment_unit": "<가>군",
+      "selection_category": "예체능계열 일반전형(실기/실적위주)",
+      "recruitment_number": "1명",
+      "csat_ratios": "대학수학능력시험 30% (300점)",
+      "evaluation_method": "실기고사 60% (600점), 대학수학능력시험 30% (300점), 학교생활기록부 10% (100점) 일괄 합산 선발, 총점 순위 선발, 학교폭력 조치사항 감점, 동점자 처리 기준: 1순위 실기고사 성적 우수자, 2순위 수능 국어영역 표준점수 우수자, 3순위 수능 영어영역 등급 우수자, 4순위 학생부 성적 우수자",
+      "source_page": "17"
+    },
+    {
+      "major": "음악학과 (관현악전공 - 더블베이스)",
+      "recruitment_unit": "<가>군",
+      "selection_category": "예체능계열 일반전형(실기/실적위주)",
+      "recruitment_number": "1명",
+      "csat_ratios": "대학수학능력시험 30% (300점)",
+      "evaluation_method": "실기고사 60% (600점), 대학수학능력시험 30% (300점), 학교생활기록부 10% (100점) 일괄 합산 선발, 총점 순위 선발, 학교폭력 조치사항 감점, 동점자 처리 기준: 1순위 실기고사 성적 우수자, 2순위 수능 국어영역 표준점수 우수자, 3순위 수능 영어영역 등급 우수자, 4순위 학생부 성적 우수자",
+      "source_page": "17"
+    },
+    {
+      "major": "음악학과 (관현악전공 - 클라리넷)",
+      "recruitment_unit": "<가>군",
+      "selection_category": "예체능계열 일반전형(실기/실적위주)",
+      "recruitment_number": "1명",
+      "csat_ratios": "대학수학능력시험 30% (300점)",
+      "evaluation_method": "실기고사 60% (600점), 대학수학능력시험 30% (300점), 학교생활기록부 10% (100점) 일괄 합산 선발, 총점 순위 선발, 학교폭력 조치사항 감점, 동점자 처리 기준: 1순위 실기고사 성적 우수자, 2순위 수능 국어영역 표준점수 우수자, 3순위 수능 영어영역 등급 우수자, 4순위 학생부 성적 우수자",
+      "source_page": "17"
+    },
+    {
+      "major": "음악학과 (관현악전공 - 트럼본)",
+      "recruitment_unit": "<가>군",
+      "selection_category": "예체능계열 일반전형(실기/실적위주)",
+      "recruitment_number": "1명",
+      "csat_ratios": "대학수학능력시험 30% (300점)",
+      "evaluation_method": "실기고사 60% (600점), 대학수학능력시험 30% (300점), 학교생활기록부 10% (100점) 일괄 합산 선발, 총점 순위 선발, 학교폭력 조치사항 감점, 동점자 처리 기준: 1순위 실기고사 성적 우수자, 2순위 수능 국어영역 표준점수 우수자, 3순위 수능 영어영역 등급 우수자, 4순위 학생부 성적 우수자",
+      "source_page": "17"
+    },
+    {
+      "major": "음악학과 (관현악전공 - 오보에)",
+      "recruitment_unit": "<가>군",
+      "selection_category": "예체능계열 일반전형(실기/실적위주)",
+      "recruitment_number": "1명",
+      "csat_ratios": "대학수학능력시험 30% (300점)",
+      "evaluation_method": "실기고사 60% (600점), 대학수학능력시험 30% (300점), 학교생활기록부 10% (100점) 일괄 합산 선발, 총점 순위 선발, 학교폭력 조치사항 감점, 동점자 처리 기준: 1순위 실기고사 성적 우수자, 2순위 수능 국어영역 표준점수 우수자, 3순위 수능 영어영역 등급 우수자, 4순위 학생부 성적 우수자",
+      "source_page": "17"
+    },
+    {
+      "major": "음악학과 (관현악전공 - 타악기)",
+      "recruitment_unit": "<가>군",
+      "selection_category": "예체능계열 일반전형(실기/실적위주)",
+      "recruitment_number": "1명",
+      "csat_ratios": "대학수학능력시험 30% (300점)",
+      "evaluation_method": "실기고사 60% (600점), 대학수학능력시험 30% (300점), 학교생활기록부 10% (100점) 일괄 합산 선발, 총점 순위 선발, 학교폭력 조치사항 감점, 동점자 처리 기준: 1순위 실기고사 성적 우수자, 2순위 수능 국어영역 표준점수 우수자, 3순위 수능 영어영역 등급 우수자, 4순위 학생부 성적 우수자",
+      "source_page": "17"
+    },
+    {
+      "major": "음악학과 (성악전공)",
+      "recruitment_unit": "<가>군",
+      "selection_category": "예체능계열 일반전형(실기/실적위주)",
+      "recruitment_number": "0명 (수시모집 미충원에 따른 이월인원 발생 시에만 선발)",
+      "csat_ratios": "대학수학능력시험 30% (300점)",
+      "evaluation_method": "실기고사 60% (600점), 대학수학능력시험 30% (300점), 학교생활기록부 10% (100점) 일괄 합산 선발, 총점 순위 선발, 학교폭력 조치사항 감점, 동점자 처리 기준: 1순위 실기고사 성적 우수자, 2순위 수능 국어영역 표준점수 우수자, 3순위 수능 영어영역 등급 우수자, 4순위 학생부 성적 우수자",
+      "source_page": "17"
+    },
+    {
+      "major": "디자인학과",
+      "recruitment_unit": "<가>군",
+      "selection_category": "예체능계열 일반전형(실기/실적위주)",
+      "recruitment_number": "4~5쪽 <Ⅰ. 모집단위별 입학정원 및 전형유형별 모집인원> 확인 (1단계 6배수 선발)",
+      "csat_ratios": "1단계: 대학수학능력시험 100% (400점), 2단계: 대학수학능력시험 40% (400점)",
+      "evaluation_method": "단계별 전형 (1단계: 모집인원의 6배수 선발, 대학수학능력시험 100% (400점); 2단계: 1단계 대학수학능력시험 반영성적, 실기고사 50% (500점), 면접 10% (100점) 합산), 총점 순위 선발, 학교폭력 조치사항 감점, 동점자 처리 기준 (1단계: 동점자 전원 선발; 2단계: 1순위 실기고사 성적 우수자, 2순위 면접고사 성적 우수자, 3순위 수능 국어영역 표준점수 우수자, 4순위 수능 영어영역 등급 우수자)",
+      "source_page": "17"
+    },
+    {
+      "major": "조각학과",
+      "recruitment_unit": "<가>군",
+      "selection_category": "예체능계열 일반전형(실기/실적위주)",
+      "recruitment_number": "4~5쪽 <Ⅰ. 모집단위별 입학정원 및 전형유형별 모집인원> 확인 (1단계 4배수 선발)",
+      "csat_ratios": "1단계: 대학수학능력시험 100% (300점), 2단계: 대학수학능력시험 30% (300점)",
+      "evaluation_method": "단계별 전형 (1단계: 모집인원의 4배수 선발, 대학수학능력시험 100% (300점); 2단계: 1단계 대학수학능력시험 반영성적, 실기고사 50% (500점), 면접 20% (200점) 합산), 총점 순위 선발, 학교폭력 조치사항 감점, 동점자 처리 기준 (1단계: 동점자 전원 선발; 2단계: 1순위 실기고사 성적 우수자, 2순위 면접고사 성적 우수자, 3순위 수능 국어영역 표준점수 우수자, 4순위 수능 영어영역 등급 우수자)",
+      "source_page": "17"
+    },
+    {
+      "major": "스포츠과학과",
+      "recruitment_unit": "예체능계열 일반전형",
+      "selection_category": "수능위주 일반전형",
+      "recruitment_number": "4~5쪽 <I. 모집단위별 입학정원 및 전형유형별 모집인원> 확인",
+      "csat_ratios": "1단계: 대학수학능력시험 100% (500점); 2단계: 대학수학능력시험 50% (500점)",
+      "evaluation_method": "1단계: 대학수학능력시험 반영성적 (모집인원의 4배수 선발); 2단계: 1단계 대학수학능력시험 반영 성적 50% (500점) + 학교생활기록부 20% (200점) + 실기고사 30% (300점) 합산 (총점 1,000점); 실기고사 과목: 좌전굴, 제자리멀리뛰기, 100m 달리기(악천후 시 10m 왕복 2회 달리기)",
+      "source_page": "21"
+    },
+    {
+      "major": "융합응용화학과, 첨단융합학부",
+      "recruitment_unit": "정시모집 <다>군 인문·자연계열 일반전형",
+      "selection_category": "수능위주 일반전형",
+      "recruitment_number": "4~5쪽 <I. 모집단위별 입학정원 및 전형유형별 모집인원> 확인",
+      "csat_ratios": "100% (1,000점)",
+      "evaluation_method": "대학수학능력시험 100% (1,000점) 반영 (총점 순위에 따라 선발)",
+      "source_page": "24"
+    },
+    {
+      "major": "해당 모집단위 (4~5쪽 <Ⅰ. 모집단위별 입학정원 및 전형유형별 모집인원> 확인)",
+      "recruitment_unit": "기회균형전형Ⅱ(정원 외 특별전형)",
+      "selection_category": "농어촌학생 특별전형 (수능위주)",
+      "recruitment_number": "4~5쪽 <Ⅰ. 모집단위별 입학정원 및 전형유형별 모집인원> 확인",
+      "csat_ratios": "100% (1,000점)",
+      "evaluation_method": "대학수학능력시험 100% (1,000점) 반영 (총점 순위에 따라 선발)",
+      "source_page": "25-27"
+    },
+    {
+      "major": "해당 모집단위 (4~5쪽 <Ⅰ. 모집단위별 입학정원 및 전형유형별 모집인원> 확인)",
+      "recruitment_unit": "기회균형전형Ⅱ(정원 외 특별전형)",
+      "selection_category": "특성화고교졸업자 특별전형 (수능위주)",
+      "recruitment_number": "4~5쪽 <Ⅰ. 모집단위별 입학정원 및 전형유형별 모집인원> 확인",
+      "csat_ratios": "100% (1,000점)",
+      "evaluation_method": "대학수학능력시험 100% (1,000점) 반영 (총점 순위에 따라 선발)",
+      "source_page": "25-27"
+    },
+    {
+      "major": "해당 모집단위 (4~5쪽 <Ⅰ. 모집단위별 입학정원 및 전형유형별 모집인원> 확인)",
+      "recruitment_unit": "기회균형전형Ⅱ(정원 외 특별전형)",
+      "selection_category": "기초생활수급자 및 차상위계층 특별전형 (수능위주)",
+      "recruitment_number": "4~5쪽 <Ⅰ. 모집단위별 입학정원 및 전형유형별 모집인원> 확인",
+      "csat_ratios": "100% (1,000점)",
+      "evaluation_method": "대학수학능력시험 100% (1,000점) 반영 (총점 순위에 따라 선발)",
+      "source_page": "25-27"
+    },
+    {
+      "major": "해당 모집단위 (4~5쪽 < I. 모집단위별 입학정원 및 전형유형별 모집인원 > 확인)",
+      "recruitment_unit": "기회균형전형Ⅱ(정원 외 특별전형)",
+      "selection_category": "장애인 등 대상자 특별전형 (수능위주)",
+      "recruitment_number": "총 10명 (모집단위별 1명 이내)",
+      "csat_ratios": "100% (1,000점)",
+      "evaluation_method": "대학수학능력시험 100% (1,000점) 반영. 인문·자연계열 내에서 모집단위별 1명 이내로 총 10명 선발. 계열별 지원인원 비율에 따라 선발인원 산정 후 총점 순으로 합격자 선정 (모집단위별 1명 배정).",
+      "source_page": "28-29"
+    },
+    {
+      "major": "음악학과",
+      "recruitment_unit": "음악학과",
+      "selection_category": "정시모집",
+      "recruitment_number": null,
+      "csat_ratios": null,
+      "evaluation_method": "학교생활기록부 반영 방법: 교과영역 100% 반영 (비교과영역 미반영), 학년별 반영비율 없음. 전학년 국어, 영어 교과의 석차등급 반영 (원점수, 평균, 표준편차, 석차등급이 모두 기재된 교과만 반영되며, 성적이 석차등급으로 산출되지 않은 과목은 미반영). 교과성적 산출식: Σ(반영 과목 석차 등급 반영점수 × 이수단위) / Σ(반영 과목 이수단위) (소수점 발생 시 여덟째 자리에서 반올림). 석차등급별 반영점수 (단위: 점): 1등급(100), 2등급(99), 3등급(98), 4등급(97), 5등급(96), 6등급(90), 7등급(80), 8등급(70), 9등급(0). 비교내신 대상자: 2024년 2월 및 이전 졸업자, 외국의 고교 과정 이수자, 기타 학교생활기록부 비산출자, 교과교육 소년원의 고교 과정 이수자, 일반계고교 직업과정 위탁생, 검정고시 출신자, 공업계 2+1 체제 이수자. 비교내신 반영 방법: 대학수학능력시험 반영 등급 평균에 따라 점수를 부여함. 반영 등급 평균 산출 방법: (국어 수능등급 × 국어 반영비율 / (국어 반영비율 + 영어 반영비율)) + (영어 수능등급 × 영어 반영비율 / (국어 반영비율 + 영어 반영비율)) (소수점 이하 버림). 반영 등급 평균에 따른 학생부 성적 (단위: 점): 1등급(100), 2등급(99.9), 3등급(99.7), 4등급(99.4), 5등급(99), 6등급(98.5), 7등급(96), 8등급(92), 9등급(0).",
+      "source_page": 33
+    },
+    {
+      "major": "스포츠과학과",
+      "recruitment_unit": "스포츠과학과",
+      "selection_category": "정시모집",
+      "recruitment_number": null,
+      "csat_ratios": null,
+      "evaluation_method": "학교생활기록부 반영 방법: 교과영역 100% 반영 (비교과영역 미반영), 학년별 반영비율 없음. 전학년 국어, 영어 교과의 석차등급 반영 (원점수, 평균, 표준편차, 석차등급이 모두 기재된 교과만 반영되며, 성적이 석차등급으로 산출되지 않은 과목은 미반영). 교과성적 산출식: Σ(반영 과목 석차 등급 반영점수 × 이수단위) / Σ(반영 과목 이수단위) (소수점 발생 시 여덟째 자리에서 반올림). 석차등급별 반영점수 (단위: 점): 1등급(200), 2등급(198), 3등급(196), 4등급(194), 5등급(192), 6등급(180), 7등급(160), 8등급(140), 9등급(0). 비교내신 대상자: 2024년 2월 및 이전 졸업자, 외국의 고교 과정 이수자, 기타 학교생활기록부 비산출자, 교과교육 소년원의 고교 과정 이수자, 일반계고교 직업과정 위탁생, 검정고시 출신자, 공업계 2+1 체제 이수자. 비교내신 반영 방법: 대학수학능력시험 반영 등급 평균에 따라 점수를 부여함. 반영 등급 평균 산출 방법: (국어 수능등급 × 국어 반영비율 / (국어 반영비율 + 영어 반영비율)) + (영어 수능등급 × 영어 반영비율 / (국어 반영비율 + 영어 반영비율)) (소수점 이하 버림). 반영 등급 평균에 따른 학생부 성적 (단위: 점): 1등급(200), 2등급(199.8), 3등급(199.4), 4등급(198.8), 5등급(198), 6등급(197), 7등급(192), 8등급(184), 9등급(0). 반영 예시: 스포츠과학과 지원자 중 비교내신 대상자의 수능등급이 국어 3등급, 영어 4등급일 경우, 수능 과목별 반영비율은 각각 국어 40%, 영어 25%이므로, 계산식은 3 × (0.4 / (0.4+0.25)) + 4 × (0.25 / (0.4+0.25)) = 3.3846154. 소수점 이하를 버리므로 해당 지원자의 평균등급은 3등급, 비교내신성적은 199.4점임.",
+      "source_page": 33
+    }
+  ]
+}
