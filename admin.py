@@ -4,6 +4,7 @@ import firebase_admin
 from firebase_admin import credentials, storage, firestore
 import os
 import time
+import json 
 
 # --- 최종 설정 ---
 #SERVICE_ACCOUNT_FILE = 'serviceAccountKey.json'
