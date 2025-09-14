@@ -69,17 +69,31 @@ def get_ai_response(query, structured_collection, raw_collection, genai_alias):
 
     # 3. 검색된 모든 정보를 종합하여 '참고 자료' 생성
     context = "--- [핵심 요약 정보 (구조화된 데이터)] ---\n"
-    sources = []
+    sources = [] # 이제 딕셔너리를 저장합니다: {'text': '...', 'page': ...}
+
     if structured_results['metadatas'] and structured_results['metadatas'][0]:
+        context += "\n".join([json.dumps(m, ensure_ascii=False) for m in structured_results['metadatas'][0]])
         for meta in structured_results['metadatas'][0]:
-            context += json.dumps(meta, ensure_ascii=False, indent=2) + "\n"
-            sources.append(f"출처 (정형 데이터): {meta.get('major', '정보')} (p.{meta.get('source_page', 'N/A')})")
+            page_str = meta.get('source_page', 'N/A')
+            try:
+                # 페이지 번호가 '23, 33' 같은 형태일 수 있으므로 첫 페이지만 사용
+                page_num = int(str(page_str).split(',')[0].strip())
+                sources.append({
+                    "text": f"정형 데이터: {meta.get('major', '정보')} (p.{page_str})",
+                    "page": page_num
+                })
+            except (ValueError, IndexError):
+                continue # 페이지 번호를 숫자로 변환할 수 없으면 건너뜁니다.
 
     context += "\n\n--- [관련 원본 텍스트 (추가 정보)] ---\n"
     if raw_results['documents'] and raw_results['documents'][0]:
         context += "\n".join(raw_results['documents'][0])
         for meta in raw_results['metadatas'][0]:
-             sources.append(f"출처 (원본 텍스트): {meta.get('source_info', 'N/A')}")
+             page_num = meta.get('source_page', 0)
+             sources.append({
+                 "text": f"원본 텍스트: Chunk from p.{page_num}",
+                 "page": page_num
+             })
     
     # 4. 최종 답변 생성을 위한 '탐정 프롬프트' 구성
     prompt = f"""
@@ -101,9 +115,13 @@ def get_ai_response(query, structured_collection, raw_collection, genai_alias):
     {query}
     [탐정 edaeroAI의 최종 보고서]
     """
-    
-    # 5. Gemini 모델을 통해 최종 답변 생성
+
     model = genai_alias.GenerativeModel(GENERATIVE_MODEL)
-    final_response = model.generate_content(prompt)
+    # stream=True 옵션을 사용하여 스트림 객체를 생성합니다.
+    response_stream = model.generate_content(prompt, stream=True)
     
-    return final_response.text, list(set(sources))
+    # 중복 제거된 출처 리스트와 스트림 객체를 반환합니다.
+    unique_sources = list({(v.get('page'), v.get('text')): v for v in sources}.values())
+    return response_stream, unique_sources
+
+    
